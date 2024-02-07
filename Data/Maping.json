@@ -1,0 +1,1557 @@
+{
+  "mappingdata": [
+    {
+      "id": [63, 67, 62, 167, 22, 49],
+      "slug": "test-for-cancer"
+    },
+    {
+      "id": [231, 234, 235, 238, 249, 250, 252, 253],
+      "slug": "test-for-viral-infections"
+    },
+    {
+      "id": [42, 183],
+      "slug": "test-for-allergy"
+    },
+    {
+      "id": [471, 472, 443],
+      "slug": "test-for-fever"
+    },
+    {
+      "id": [444, 445, 446],
+      "slug": "test-for-diabetes"
+    },
+    {
+      "id": [447],
+      "slug": "test-for-hypertension"
+    },
+    {
+      "id": [453, 450],
+      "slug": "test-for-infertility"
+    },
+    {
+      "id": [181, 101, 102, 180],
+      "slug": "test-for-thyroid"
+    },
+    {
+      "id": [
+        457, 19, 27, 36, 44, 50, 56, 64, 82, 92, 110, 113, 148, 153, 187, 189,
+        196, 199, 219, 234, 252, 284, 323, 359
+      ],
+      "slug": "test-for-kidney"
+    },
+    {
+      "id": [27, 31, 36, 38, 77, 155, 183, 202, 211, 302, 304, 325, 348, 401],
+      "slug": "test-for-lungs"
+    },
+    {
+      "id": [
+        476, 477, 478, 58, 72, 84, 85, 150, 184, 186, 242, 284, 355, 352, 381,
+        474, 475
+      ],
+      "slug": "test-for-heart"
+    },
+    {
+      "id": [
+        27, 139, 6, 19, 22, 23, 41, 51, 53, 55, 69, 78, 106, 128, 130, 144, 165,
+        211, 224, 231, 234, 235, 250, 252, 340, 382, 383
+      ],
+      "slug": "test-for-liver"
+    },
+    {
+      "id": [1],
+      "slug": "h-pylori-igm-antibodies"
+    },
+    {
+      "id": [2],
+      "slug": "quarduaple-maternal-secreen-quadruple-test"
+    },
+    {
+      "id": [3],
+      "slug": "17-alpha-hydroxy-progesterone"
+    },
+    {
+      "id": [4],
+      "slug": "24-hours-urine-protein-electrophoresis"
+    },
+    {
+      "id": [5],
+      "slug": "adenosine-deaminase"
+    },
+    {
+      "id": [6],
+      "slug": "alanine-aminotransferase--alt--sgpt"
+    },
+    {
+      "id": [19],
+      "slug": "albumin"
+    },
+    {
+      "id": [20],
+      "slug": "albumin-globulin-ag-ratio"
+    },
+    {
+      "id": [21],
+      "slug": "aldosterone"
+    },
+    {
+      "id": [22],
+      "slug": "alfa-fetoprotein-afp"
+    },
+    {
+      "id": [23],
+      "slug": "alkaline-phosphatase"
+    },
+    {
+      "id": [24],
+      "slug": "alpha-1-antitrypsin-quantitation"
+    },
+    {
+      "id": [25],
+      "slug": "amylase"
+    },
+    {
+      "id": [26],
+      "slug": "ana-ifa-method"
+    },
+    {
+      "id": [27],
+      "slug": "ana-antinuclear-antibody---quantitative-elisa"
+    },
+    {
+      "id": [28],
+      "slug": "angiotensin-converting-enzyme"
+    },
+    {
+      "id": [29],
+      "slug": "anti-endomysial-antibody-iga-ifa"
+    },
+    {
+      "id": [30],
+      "slug": "anti-mullerian-hormone-amh"
+    },
+    {
+      "id": [31],
+      "slug": "anti-nuclear-antibody-ana-profile---immunoblot-extractable-nuclear-antigens-ena"
+    },
+    {
+      "id": [32],
+      "slug": "anti-nuclear-antibody-ana-ifa-hep-2"
+    },
+    {
+      "id": [33],
+      "slug": "anti-phospholipid-antibodies"
+    },
+    {
+      "id": [34],
+      "slug": "anti-thyroglobulin-antibodies"
+    },
+    {
+      "id": [35],
+      "slug": "anti-tpo-antibodies"
+    },
+    {
+      "id": [36],
+      "slug": "anti-ds-dna-antibody"
+    },
+    {
+      "id": [37],
+      "slug": "anti-cycllic-citrullinated-peptide--anti-ccp"
+    },
+    {
+      "id": [38],
+      "slug": "arterial-blood-gases"
+    },
+    {
+      "id": [39],
+      "slug": "ascaigg--iga-panel"
+    },
+    {
+      "id": [40],
+      "slug": "ascitic-fluid-analysis"
+    },
+    {
+      "id": [41],
+      "slug": "aspartate-aminotransferase--ast--sgot"
+    },
+    {
+      "id": [42],
+      "slug": "allergy-panel---drugs-12-parameters--amoxyciilin-ampicillin-acth-pencillin-v-pencillin-g-human-insulin-diclofenac-ibuprufen-paracetamol-ciprofloxacin-sulfa-total-ige"
+    },
+    {
+      "id": [43],
+      "slug": "anti-smooth-muscle-antibody-asma-screen---ifa"
+    },
+    {
+      "id": [44],
+      "slug": "beta---2-microglobulin-serum"
+    },
+    {
+      "id": [45],
+      "slug": "bad-obstetric-history-panel-comprehensive"
+    },
+    {
+      "id": [47],
+      "slug": "beta-2-glycoprotein-igg-iga--igm"
+    },
+    {
+      "id": [48],
+      "slug": "beta-galactomannan"
+    },
+    {
+      "id": [49],
+      "slug": "beta-hcg"
+    },
+    {
+      "id": [50],
+      "slug": "enzymatic-bicarbonate"
+    },
+    {
+      "id": [51],
+      "slug": "bilirubin-direct"
+    },
+    {
+      "id": [52],
+      "slug": "bilirubin-indirect"
+    },
+    {
+      "id": [53],
+      "slug": "bilirubin-total"
+    },
+    {
+      "id": [54],
+      "slug": "bilirubin-total-neonatal-age"
+    },
+    {
+      "id": [55],
+      "slug": "blood-ammonia"
+    },
+    {
+      "id": [56],
+      "slug": "blood-urea"
+    },
+    {
+      "id": [58],
+      "slug": "bnp-quantitative"
+    },
+    {
+      "id": [59],
+      "slug": "body-fluid-analysis"
+    },
+    {
+      "id": [60],
+      "slug": "c-ceptide-fasting"
+    },
+    {
+      "id": [61],
+      "slug": "cdifficile-toxin---a--b-stool"
+    },
+    {
+      "id": [62],
+      "slug": "ca-125-cancer-marker"
+    },
+    {
+      "id": [63],
+      "slug": "ca-199-cancer-marker"
+    },
+    {
+      "id": [64],
+      "slug": "calcium"
+    },
+    {
+      "id": [65],
+      "slug": "calcium-24-hrs-urine"
+    },
+    {
+      "id": [66],
+      "slug": "calprotectin---fecal"
+    },
+    {
+      "id": [67],
+      "slug": "carcinoembryonic-antigen-cea"
+    },
+    {
+      "id": [68],
+      "slug": "catecholamines---24-hours-urine"
+    },
+    {
+      "id": [69],
+      "slug": "ceruloplasmin"
+    },
+    {
+      "id": [70],
+      "slug": "chloride"
+    },
+    {
+      "id": [71],
+      "slug": "chloride-24-hrs-urine"
+    },
+    {
+      "id": [72],
+      "slug": "cholesterol-total"
+    },
+    {
+      "id": [73],
+      "slug": "chromogranin-acga-plasma"
+    },
+    {
+      "id": [74],
+      "slug": "circulating-filarial-antigen"
+    },
+    {
+      "id": [75],
+      "slug": "cmv-dna-quantitative"
+    },
+    {
+      "id": [76],
+      "slug": "complement-level-c3--complement-level-c4-c3-c4"
+    },
+    {
+      "id": [77],
+      "slug": "comprehensive-metabolic-panel"
+    },
+    {
+      "id": [78],
+      "slug": "copperserum"
+    },
+    {
+      "id": [79],
+      "slug": "cortisol-evening"
+    },
+    {
+      "id": [80],
+      "slug": "cortisol-morning"
+    },
+    {
+      "id": [81],
+      "slug": "cow-milk-allergy-test"
+    },
+    {
+      "id": [82],
+      "slug": "creatinine"
+    },
+    {
+      "id": [83],
+      "slug": "creatinine-24-hrs-urine"
+    },
+    {
+      "id": [84],
+      "slug": "creatinine-kinase-mb--ckmb-"
+    },
+    {
+      "id": [85],
+      "slug": "creatinine-phosphokinase--cpk-"
+    },
+    {
+      "id": [86],
+      "slug": "csf-fluid-analysis"
+    },
+    {
+      "id": [87],
+      "slug": "copper-cu---24-hours-urine"
+    },
+    {
+      "id": [88],
+      "slug": "dehydroepiandrosterone-sulphate-dhea-s"
+    },
+    {
+      "id": [89],
+      "slug": "digoxin-levels"
+    },
+    {
+      "id": [90],
+      "slug": "dual-marker"
+    },
+    {
+      "id": [91],
+      "slug": "electrolytes-na-k-cl"
+    },
+    {
+      "id": [92],
+      "slug": "electrolytes-na-k-ca"
+    },
+    {
+      "id": [93],
+      "slug": "endomysial-antibodiesema"
+    },
+    {
+      "id": [94],
+      "slug": "estradiol"
+    },
+    {
+      "id": [95],
+      "slug": "ferritin"
+    },
+    {
+      "id": [96],
+      "slug": "fluid-for-creatinine"
+    },
+    {
+      "id": [97],
+      "slug": "fluid-for-triglycerides"
+    },
+    {
+      "id": [98],
+      "slug": "folate-levels-folic-acid"
+    },
+    {
+      "id": [99],
+      "slug": "follicle-stimulating-hormone-fsh"
+    },
+    {
+      "id": [100],
+      "slug": "free-light-chain-flc-essay-kappa-and-lambda"
+    },
+    {
+      "id": [101],
+      "slug": "free-thyroxine-ft4"
+    },
+    {
+      "id": [102],
+      "slug": "free-tri-iodothyronine-ft3"
+    },
+    {
+      "id": [103],
+      "slug": "free-thyroid-profile-ft3-ft4-tsh"
+    },
+    {
+      "id": [104],
+      "slug": "g6pd-assay-elisa"
+    },
+    {
+      "id": [105],
+      "slug": "galt-assay"
+    },
+    {
+      "id": [106],
+      "slug": "gamma-glutamyl-transferase--ggt-"
+    },
+    {
+      "id": [107],
+      "slug": "gastrin"
+    },
+    {
+      "id": [108],
+      "slug": "gestational-glucose-tolerance-test--ggtt-"
+    },
+    {
+      "id": [109],
+      "slug": "globulin"
+    },
+    {
+      "id": [110],
+      "slug": "glomerular-filtration-rate-gfr"
+    },
+    {
+      "id": [111],
+      "slug": "glucose--post-prandial-"
+    },
+    {
+      "id": [112],
+      "slug": "glucose-fasting"
+    },
+    {
+      "id": [113],
+      "slug": "glucose-random"
+    },
+    {
+      "id": [114],
+      "slug": "glucose-challenge-test--gct-"
+    },
+    {
+      "id": [115],
+      "slug": "glucose-tolerance-test--gtt-"
+    },
+    {
+      "id": [116],
+      "slug": "glycosylated-hemoglobin--hba-1c-"
+    },
+    {
+      "id": [117],
+      "slug": "growth-hormone"
+    },
+    {
+      "id": [118],
+      "slug": "hbv-viral-dna-pcr-quantitative"
+    },
+    {
+      "id": [119],
+      "slug": "hdl-cholesterol"
+    },
+    {
+      "id": [120],
+      "slug": "hiv-1-western-blotwith-hiv-2-band"
+    },
+    {
+      "id": [121],
+      "slug": "homocysteine-levels"
+    },
+    {
+      "id": [122],
+      "slug": "immune-deficiency-panel-4-cd-4-counts"
+    },
+    {
+      "id": [123],
+      "slug": "immunofixation-electrophoresis-ife-qualitative-serum"
+    },
+    {
+      "id": [124],
+      "slug": "infertility-comprehensive-panel"
+    },
+    {
+      "id": [125],
+      "slug": "inhibin-level-a"
+    },
+    {
+      "id": [126],
+      "slug": "insulin-serum"
+    },
+    {
+      "id": [127],
+      "slug": "ionized-calcium"
+    },
+    {
+      "id": [128],
+      "slug": "iron-profile-serum"
+    },
+    {
+      "id": [130],
+      "slug": "lactate-dehydrogenase--ldh-"
+    },
+    {
+      "id": [131],
+      "slug": "ldl-cholesterol"
+    },
+    {
+      "id": [132],
+      "slug": "lead-blood"
+    },
+    {
+      "id": [133],
+      "slug": "leutinizing-hormone-lh"
+    },
+    {
+      "id": [134],
+      "slug": "lipase"
+    },
+    {
+      "id": [136],
+      "slug": "lithium-serum"
+    },
+    {
+      "id": [139],
+      "slug": "liver-kidney-microsomallkm-antibodyifa-with-reflex-titer"
+    },
+    {
+      "id": [140],
+      "slug": "magnesium"
+    },
+    {
+      "id": [141],
+      "slug": "magnesium-24-hrs-urine"
+    },
+    {
+      "id": [142],
+      "slug": "maternal-screening-second-trimester---quadruple-markers"
+    },
+    {
+      "id": [143],
+      "slug": "metanephrines-fractionated24-hour-urine"
+    },
+    {
+      "id": [144],
+      "slug": "mitochondrial-antibody-ama-ifa"
+    },
+    {
+      "id": [145],
+      "slug": "mucopolysaccharidosis-mps-screenurine"
+    },
+    {
+      "id": [146],
+      "slug": "multiple-myeloma-screening-panel"
+    },
+    {
+      "id": [147],
+      "slug": "newborn-screening-extended"
+    },
+    {
+      "id": [148],
+      "slug": "parathyroid-hormone-intact-pth"
+    },
+    {
+      "id": [149],
+      "slug": "pcod-polycystic-ovarian-disease-profile"
+    },
+    {
+      "id": [150],
+      "slug": "pericardial-fluid-examination"
+    },
+    {
+      "id": [151],
+      "slug": "phosphate-24-hrs-urine"
+    },
+    {
+      "id": [152],
+      "slug": "phospholipid-panel-iggigm"
+    },
+    {
+      "id": [153],
+      "slug": "phosphorus"
+    },
+    {
+      "id": [154],
+      "slug": "plasma-catecholamines"
+    },
+    {
+      "id": [155],
+      "slug": "pleural-fluid-analysis"
+    },
+    {
+      "id": [156],
+      "slug": "porphobilinogenpbg-qualitative-urine"
+    },
+    {
+      "id": [157],
+      "slug": "potassium"
+    },
+    {
+      "id": [158],
+      "slug": "potassium-24-hrs-urine"
+    },
+    {
+      "id": [159],
+      "slug": "procalcitonin"
+    },
+    {
+      "id": [160],
+      "slug": "progesterone"
+    },
+    {
+      "id": [161],
+      "slug": "prolactin"
+    },
+    {
+      "id": [162],
+      "slug": "prostatic-specific-antigen-psa---free-f-psa"
+    },
+    {
+      "id": [163],
+      "slug": "protein-electrophoresis"
+    },
+    {
+      "id": [164],
+      "slug": "protein-urine-spot-sample"
+    },
+    {
+      "id": [165],
+      "slug": "protein-total"
+    },
+    {
+      "id": [166],
+      "slug": "proteins-24-hrs-urine"
+    },
+    {
+      "id": [167],
+      "slug": "psa-total"
+    },
+    {
+      "id": [168],
+      "slug": "reverse-t3"
+    },
+    {
+      "id": [169],
+      "slug": "serum-ascites---albumin-gradient-saag"
+    },
+    {
+      "id": [170],
+      "slug": "shortness-of-breath-sob-panel"
+    },
+    {
+      "id": [171],
+      "slug": "smooth-muscle-antibody-asma"
+    },
+    {
+      "id": [172],
+      "slug": "sodium"
+    },
+    {
+      "id": [173],
+      "slug": "sodium-24-hrs-urine"
+    },
+    {
+      "id": [174],
+      "slug": "stool-for-occult-blood"
+    },
+    {
+      "id": [175],
+      "slug": "t3-tri-iodothyronine-total"
+    },
+    {
+      "id": [176],
+      "slug": "t4-total-thyroxine"
+    },
+    {
+      "id": [177],
+      "slug": "tacrolimus"
+    },
+    {
+      "id": [178],
+      "slug": "testosterone-free"
+    },
+    {
+      "id": [179],
+      "slug": "testosterone-total"
+    },
+    {
+      "id": [180],
+      "slug": "thyroid-profile"
+    },
+    {
+      "id": [181],
+      "slug": "thyroid-stimulating-hormone-tsh"
+    },
+    {
+      "id": [182],
+      "slug": "total-and-direct-bilirubin"
+    },
+    {
+      "id": [183],
+      "slug": "total-ige"
+    },
+    {
+      "id": [184],
+      "slug": "triglycerides"
+    },
+    {
+      "id": [185],
+      "slug": "trop---i"
+    },
+    {
+      "id": [186],
+      "slug": "troponin--t--qualitative--trop--t-"
+    },
+    {
+      "id": [187],
+      "slug": "uric-acid"
+    },
+    {
+      "id": [188],
+      "slug": "uric-acid-24-hrs-urine"
+    },
+    {
+      "id": [189],
+      "slug": "urinary-proteincreatinine-ratio"
+    },
+    {
+      "id": [190],
+      "slug": "urine-calciumcreatinine-ratio"
+    },
+    {
+      "id": [191],
+      "slug": "urine-for-chloride-spot-test"
+    },
+    {
+      "id": [192],
+      "slug": "urine-for-potassium-spot-test"
+    },
+    {
+      "id": [193],
+      "slug": "urine-for-sodium-spot-test"
+    },
+    {
+      "id": [194],
+      "slug": "urine-immunofixationrandomelectrophoresis"
+    },
+    {
+      "id": [195],
+      "slug": "urine-microalbumin"
+    },
+    {
+      "id": [196],
+      "slug": "urine-microalbumincreatinine-ratio"
+    },
+    {
+      "id": [197],
+      "slug": "vanilyi-mandelic-acidvma24-hr-urine"
+    },
+    {
+      "id": [198],
+      "slug": "vitamin-b12"
+    },
+    {
+      "id": [199],
+      "slug": "vitamin-d-25-hydroxy"
+    },
+    {
+      "id": [200],
+      "slug": "c-anca--p-anca-antibodies"
+    },
+    {
+      "id": [201],
+      "slug": "h-ttg-dgp-tissue-transglutaminase-dgp-screen-ttg-dgp"
+    },
+    {
+      "id": [202],
+      "slug": "absolute-eosinophil-count"
+    },
+    {
+      "id": [203],
+      "slug": "absolute-neutrophil-count"
+    },
+    {
+      "id": [204],
+      "slug": "activated-partial-thromboplastin-time--aptt-"
+    },
+    {
+      "id": [205],
+      "slug": "acute-leukaema-comprehensive-panel"
+    },
+    {
+      "id": [206],
+      "slug": "allergy-specific-ige---aspergillus-fumigatus"
+    },
+    {
+      "id": [207],
+      "slug": "bleeding-time-clotting-time"
+    },
+    {
+      "id": [208],
+      "slug": "blood-group"
+    },
+    {
+      "id": [209],
+      "slug": "blood-group-by-gel-method"
+    },
+    {
+      "id": [210],
+      "slug": "bone-marrow-aspiration"
+    },
+    {
+      "id": [211],
+      "slug": "complete-blood-count-cbc"
+    },
+    {
+      "id": [212],
+      "slug": "compliment-levels-c3"
+    },
+    {
+      "id": [213],
+      "slug": "coombs-test-direct"
+    },
+    {
+      "id": [214],
+      "slug": "coombs-test-indirect"
+    },
+    {
+      "id": [215],
+      "slug": "erythrocyte-sedimentation-rate-esr"
+    },
+    {
+      "id": [216],
+      "slug": "factor-ix-functional"
+    },
+    {
+      "id": [217],
+      "slug": "factor-viii-functional--activity"
+    },
+    {
+      "id": [218],
+      "slug": "glucose---6---phosphate-dehyrogenase-g6pd-screen"
+    },
+    {
+      "id": [219],
+      "slug": "hemoglobin--hb--and-packed-cell-volume--pcv-"
+    },
+    {
+      "id": [220],
+      "slug": "hemoglobin-variant-analysis-hb-hplc-with-rbc-indices"
+    },
+    {
+      "id": [221],
+      "slug": "malarial-parasite--mp--smear-examination"
+    },
+    {
+      "id": [222],
+      "slug": "peripheral-blood-film--pbf-"
+    },
+    {
+      "id": [223],
+      "slug": "platelet-count"
+    },
+    {
+      "id": [224],
+      "slug": "prothrombin-time-test-pt"
+    },
+    {
+      "id": [225],
+      "slug": "reticulocyte-count"
+    },
+    {
+      "id": [226],
+      "slug": "thrombo-check-panel-basic-protein-c-functional-free-protein-s-antigen-at-iii"
+    },
+    {
+      "id": [227],
+      "slug": "total-leucocyte-count--tlc--differential-leucocyte-count--dlc-"
+    },
+    {
+      "id": [228],
+      "slug": "total-leucocyte-count-and-differential-leucocyte-count-for-fluids"
+    },
+    {
+      "id": [229],
+      "slug": "valproate-levels"
+    },
+    {
+      "id": [230],
+      "slug": "d-dimer-assay"
+    },
+    {
+      "id": [231],
+      "slug": "anti-hbe-antibodies-clia-method"
+    },
+    {
+      "id": [232],
+      "slug": "anti-hbs-antibodies-total-clia-method"
+    },
+    {
+      "id": [233],
+      "slug": "anti-hcv-antibodies-card-method"
+    },
+    {
+      "id": [234],
+      "slug": "anti-hcv-antibodies-clia-method"
+    },
+    {
+      "id": [235],
+      "slug": "anti-hepatitis-b-core-hbc-igm-antibody"
+    },
+    {
+      "id": [236],
+      "slug": "anti-hepatitis-b-core-antibodies-total-hbc-total--clia-method"
+    },
+    {
+      "id": [237],
+      "slug": "anti-hiv-1--2-antibodies-card-method"
+    },
+    {
+      "id": [238],
+      "slug": "anti-hiv-antibodies--clia-method"
+    },
+    {
+      "id": [239],
+      "slug": "tissue-transglutaminase-antibody-ttg-iga"
+    },
+    {
+      "id": [240],
+      "slug": "anti-streptolysin-o-aso"
+    },
+    {
+      "id": [241],
+      "slug": "c---reactive-protein-crp-qualitative"
+    },
+    {
+      "id": [242],
+      "slug": "c---reactive-protein-crp-quantitative"
+    },
+    {
+      "id": [243],
+      "slug": "csf-cryptococcus-antigen"
+    },
+    {
+      "id": [244],
+      "slug": "cytomegalovirus-cmv-antibodyigg-serum"
+    },
+    {
+      "id": [245],
+      "slug": "cytomegalovirus-cmv-antibodyigm-serum"
+    },
+    {
+      "id": [246],
+      "slug": "dengue-antibodies-igg-igm-ns1ag"
+    },
+    {
+      "id": [247],
+      "slug": "entamoeba-histolytica-antibody-igg---amoebic-serology"
+    },
+    {
+      "id": [248],
+      "slug": "h-pylori-igg-antibody"
+    },
+    {
+      "id": [249],
+      "slug": "hepatitis-a-virus-hav-igm"
+    },
+    {
+      "id": [250],
+      "slug": "hepatitis-b-envelope-antigen-hbeag"
+    },
+    {
+      "id": [251],
+      "slug": "hepatitis-b-surface-antigen-card-method"
+    },
+    {
+      "id": [252],
+      "slug": "hepatitis-b-surface-antigen-hbsag-by-clia-method"
+    },
+    {
+      "id": [253],
+      "slug": "hepatitis-e-virus-hev-igm-by-clia-method"
+    },
+    {
+      "id": [254],
+      "slug": "herpes-simplex-virus-hsv-types-12-igg-and-igm-antibodies"
+    },
+    {
+      "id": [255],
+      "slug": "hydatid-serology"
+    },
+    {
+      "id": [256],
+      "slug": "immunoglobulin-iga"
+    },
+    {
+      "id": [257],
+      "slug": "immunoglobulin-igg-4-subclass"
+    },
+    {
+      "id": [258],
+      "slug": "immunoglobulin-igg-serum"
+    },
+    {
+      "id": [259],
+      "slug": "immunoglobulin-igm-serum"
+    },
+    {
+      "id": [260],
+      "slug": "leptospira-antibodies-igg--igm"
+    },
+    {
+      "id": [261],
+      "slug": "malaria-antigen-pvivax--pfalciparum"
+    },
+    {
+      "id": [262],
+      "slug": "measles-rubeola-antibody-igg"
+    },
+    {
+      "id": [263],
+      "slug": "mumps-virus-antibody-igg"
+    },
+    {
+      "id": [264],
+      "slug": "rapid-plasma-reagin-rpr--vdrl-test"
+    },
+    {
+      "id": [265],
+      "slug": "rapid-plasma-reagin-rpr--vdrl-test-with-titre"
+    },
+    {
+      "id": [266],
+      "slug": "rheumatoid-factor-qualitative"
+    },
+    {
+      "id": [267],
+      "slug": "rheumatoid-factor-quantitative"
+    },
+    {
+      "id": [268],
+      "slug": "rubella-german-measles-antibody-igg"
+    },
+    {
+      "id": [269],
+      "slug": "scrub-typhus-o-tsutsugamushi-antibody-test-ict"
+    },
+    {
+      "id": [270],
+      "slug": "tb-gold-assay"
+    },
+    {
+      "id": [271],
+      "slug": "torch-igg-panel-4-parameters"
+    },
+    {
+      "id": [272],
+      "slug": "torch-igm-panel-4-parameters"
+    },
+    {
+      "id": [273],
+      "slug": "torch-panel-igg--igm"
+    },
+    {
+      "id": [274],
+      "slug": "toxoplasma-igg-antibody"
+    },
+    {
+      "id": [275],
+      "slug": "toxoplasma-igm-antibody"
+    },
+    {
+      "id": [276],
+      "slug": "treponema-pallidum--hemagglutination-tpha"
+    },
+    {
+      "id": [277],
+      "slug": "typhi-dot"
+    },
+    {
+      "id": [278],
+      "slug": "varicella-zoster-virusvzv-antibody-igg"
+    },
+    {
+      "id": [279],
+      "slug": "widal-slide-test"
+    },
+    {
+      "id": [280],
+      "slug": "widal-tube-test"
+    },
+    {
+      "id": [281],
+      "slug": "culture-afb-mycobacterium-tb"
+    },
+    {
+      "id": [282],
+      "slug": "culture-and-sensitivity-all-body-fluid-manual"
+    },
+    {
+      "id": [283],
+      "slug": "culture-and-sensitivity-all-body-fluids-automated"
+    },
+    {
+      "id": [284],
+      "slug": "culture-and-sensitivity-blood-automated"
+    },
+    {
+      "id": [285],
+      "slug": "culture-and-sensitivity-blood-automated-paeds"
+    },
+    {
+      "id": [287],
+      "slug": "culture-and-sensitivity-csf-automated"
+    },
+    {
+      "id": [288],
+      "slug": "culture-and-sensitivity-csf-manual"
+    },
+    {
+      "id": [289],
+      "slug": "culture-and-sensitivity-pus-automated"
+    },
+    {
+      "id": [290],
+      "slug": "culture-and-sensitivity-pus-manual"
+    },
+    {
+      "id": [291],
+      "slug": "culture-and-sensitivity-sputum-automated"
+    },
+    {
+      "id": [292],
+      "slug": "culture-and-sensitivity-sputum-manual"
+    },
+    {
+      "id": [293],
+      "slug": "culture-and-sensitivity-stool-automated"
+    },
+    {
+      "id": [294],
+      "slug": "culture-and-sensitivity-stool-manual"
+    },
+    {
+      "id": [295],
+      "slug": "culture-and-sensitivity-urine-automated"
+    },
+    {
+      "id": [296],
+      "slug": "culture-and-sensitivity-urine-manual"
+    },
+    {
+      "id": [297],
+      "slug": "culture-fungal-automated"
+    },
+    {
+      "id": [298],
+      "slug": "culture-fungal-manual"
+    },
+    {
+      "id": [299],
+      "slug": "cultured-afb-mycobacterium-anti-tubercular-drug-sensitivity-10-drugs"
+    },
+    {
+      "id": [300],
+      "slug": "cultured-afb-mycobacterium-anti-tubercular-drug-sensitivity-first-line"
+    },
+    {
+      "id": [301],
+      "slug": "cultured-afb-mycobacterium-anti-tubercular-drug-sensitivity-second-line"
+    },
+    {
+      "id": [302],
+      "slug": "gram-stain"
+    },
+    {
+      "id": [303],
+      "slug": "india-ink-for-cryptococus"
+    },
+    {
+      "id": [304],
+      "slug": "koh-mount-for--fungus"
+    },
+    {
+      "id": [305],
+      "slug": "mantoux-tuberculin-test"
+    },
+    {
+      "id": [306],
+      "slug": "modified-kinyouns-stain-for-coccidian-oocysts"
+    },
+    {
+      "id": [307],
+      "slug": "other-culture"
+    },
+    {
+      "id": [308],
+      "slug": "stool-for-hanging-drop"
+    },
+    {
+      "id": [309],
+      "slug": "tb-pcr-with-rif-susceptibility"
+    },
+    {
+      "id": [310],
+      "slug": "water-culture"
+    },
+    {
+      "id": [311],
+      "slug": "water-portability"
+    },
+    {
+      "id": [312],
+      "slug": "zn-stain"
+    },
+    {
+      "id": [314],
+      "slug": "bence-jones-proteins"
+    },
+    {
+      "id": [315],
+      "slug": "drug-of-abuse-screen-in-urine"
+    },
+    {
+      "id": [316],
+      "slug": "ketones-acetone-urine"
+    },
+    {
+      "id": [317],
+      "slug": "semen-analysis"
+    },
+    {
+      "id": [318],
+      "slug": "stool-examination"
+    },
+    {
+      "id": [319],
+      "slug": "synovial-fluid-analysis"
+    },
+    {
+      "id": [320],
+      "slug": "urinalysis-extended"
+    },
+    {
+      "id": [321],
+      "slug": "urine-for-bile-salt--pigment"
+    },
+    {
+      "id": [322],
+      "slug": "urine-test-for-pregnancy"
+    },
+    {
+      "id": [323],
+      "slug": "urine-test-routine"
+    },
+    {
+      "id": [324],
+      "slug": "ebv-dna-quantitative"
+    },
+    {
+      "id": [325],
+      "slug": "genexpert-mtb-with-rifampicin-resistance-qualitative-cb-naat"
+    },
+    {
+      "id": [326],
+      "slug": "hbv-dna-quantitative"
+    },
+    {
+      "id": [327],
+      "slug": "hcv-genotype"
+    },
+    {
+      "id": [328],
+      "slug": "hcv-rna-quantitative"
+    },
+    {
+      "id": [329],
+      "slug": "hiv-1-rna-quantitative-pcr"
+    },
+    {
+      "id": [330],
+      "slug": "hla-b27-qualitative-pcr"
+    },
+    {
+      "id": [332],
+      "slug": "idh1--idh2-gene-mutation-basic"
+    },
+    {
+      "id": [334],
+      "slug": "sma-spinal-muscular-atrophy-gene---smn-microdeletion"
+    },
+    {
+      "id": [335],
+      "slug": "torch-pcr"
+    },
+    {
+      "id": [336],
+      "slug": "1p--19q-co-deletion-by-fish"
+    },
+    {
+      "id": [337],
+      "slug": "bone-marrow-biopsy"
+    },
+    {
+      "id": [338],
+      "slug": "histopathology-large-specimen"
+    },
+    {
+      "id": [339],
+      "slug": "histopathology-medium-specimen"
+    },
+    {
+      "id": [340],
+      "slug": "histopathology-small-specimen"
+    },
+    {
+      "id": [341],
+      "slug": "histopathology-slidesblocks-review-more-than-10-blocks"
+    },
+    {
+      "id": [342],
+      "slug": "histopathology-slidesblocks-review-up-to-10-blocks"
+    },
+    {
+      "id": [343],
+      "slug": "histopathology-slidesblocks-review-up-to-2-blocks"
+    },
+    {
+      "id": [344],
+      "slug": "ihc-final-diagnostic-panel"
+    },
+    {
+      "id": [345],
+      "slug": "ihc-for-breast-hormone-receptors-er-pr-her2neu"
+    },
+    {
+      "id": [346],
+      "slug": "conventional-pap-smear-cytology"
+    },
+    {
+      "id": [347],
+      "slug": "hpv-test"
+    },
+    {
+      "id": [348],
+      "slug": "cytology-for-malignant-cells-body-fluids"
+    },
+    {
+      "id": [349],
+      "slug": "fine-needle-aspiration-cytology--fnac-"
+    },
+    {
+      "id": [350],
+      "slug": "fnac-image-guided"
+    },
+    {
+      "id": [352],
+      "slug": "electrocardiogram-ecg"
+    },
+    {
+      "id": [353],
+      "slug": "chromosome-analysis"
+    },
+    {
+      "id": [354],
+      "slug": "karyotyping-on-peripheral-blood-for-single-individual"
+    },
+    {
+      "id": [355],
+      "slug": "lipid-profile"
+    },
+    {
+      "id": [356],
+      "slug": "basic-lipid-profile"
+    },
+    {
+      "id": [357],
+      "slug": "liver-function-test-extended"
+    },
+    {
+      "id": [358],
+      "slug": "liver-function-test-basic"
+    },
+    {
+      "id": [359],
+      "slug": "kidney-panel"
+    },
+    {
+      "id": [361],
+      "slug": "assure-fitman-essential"
+    },
+    {
+      "id": [363],
+      "slug": "assure-fitman-premium"
+    },
+    {
+      "id": [364],
+      "slug": "assure-fitwoman-essential"
+    },
+    {
+      "id": [366],
+      "slug": "assure-fitwoman-premium"
+    },
+    {
+      "id": [367],
+      "slug": "assure-fitwoman-complete-care"
+    },
+    {
+      "id": [368],
+      "slug": "assure-fit-couple-essential---man"
+    },
+    {
+      "id": [369],
+      "slug": "assure-fit-couple-essential---woman"
+    },
+    {
+      "id": [370],
+      "slug": "assure-fit-couple-premium--male-"
+    },
+    {
+      "id": [371],
+      "slug": "assure-fit-couple-premium--female-"
+    },
+    {
+      "id": [372],
+      "slug": "assure-livlong-premium---man"
+    },
+    {
+      "id": [373],
+      "slug": "assure-livlong-premium---woman"
+    },
+    {
+      "id": [374],
+      "slug": "assure-livlong-couple-premium--man"
+    },
+    {
+      "id": [375],
+      "slug": "assure-livlong-couple-premium--woman"
+    },
+    {
+      "id": [381],
+      "slug": "healthy-heart-panel"
+    },
+    {
+      "id": [382],
+      "slug": "liver-function-test-basic"
+    },
+    {
+      "id": [383],
+      "slug": "liver-function-test-extended"
+    },
+    {
+      "id": [401],
+      "slug": "respiratory-panel"
+    },
+    {
+      "id": [443],
+      "slug": "fever-panel"
+    },
+    {
+      "id": [444],
+      "slug": "diabetes-profile"
+    },
+    {
+      "id": [445],
+      "slug": "diabetes-profile-extended"
+    },
+    {
+      "id": [446],
+      "slug": "diabetes-screen"
+    },
+    {
+      "id": [447],
+      "slug": "hypertension-profile"
+    },
+    {
+      "id": [450],
+      "slug": "infertility-screening-panel-for-women"
+    },
+    {
+      "id": [452],
+      "slug": "free-thyroid-profile-ft3-ft4-tsh"
+    },
+    {
+      "id": [453],
+      "slug": "infertility-screening-panel-for-men"
+    },
+    {
+      "id": [458],
+      "slug": "assure-well-immunity-check-panel"
+    },
+    {
+      "id": [465],
+      "slug": "hpv--pap-cotest"
+    },
+    {
+      "id": [467],
+      "slug": "pap-test-lbc"
+    },
+    {
+      "id": [468],
+      "slug": "assure-complete-wellness-package-for-man"
+    },
+    {
+      "id": [469],
+      "slug": "assure-complete-wellness-package-for-woman"
+    },
+    {
+      "id": [471],
+      "slug": "tropical-fever"
+    },
+    {
+      "id": [472],
+      "slug": "fever-cure"
+    },
+    {
+      "id": [473],
+      "slug": ""
+    },
+    {
+      "id": [474],
+      "slug": "lipid-profile-advance"
+    },
+    {
+      "id": [475],
+      "slug": "lipid-profile-comprehensive"
+    },
+    {
+      "id": [476],
+      "slug": "troponin-t-highly-sensitive"
+    },
+    {
+      "id": [477],
+      "slug": "troponin-i-highly-sensitive"
+    },
+    {
+      "id": [478],
+      "slug": "nt-pro-bnp"
+    }
+  ]
+}

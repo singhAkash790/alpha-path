@@ -1,0 +1,139 @@
+[
+  {
+    "doctor_name": "Dr. Sanjay Wadhwa",
+    "slug": "dr-sanjay-wadhwa",
+    "doctor_education": "DCP (Pathology), DNB (Pathology)",
+    "doctor_details": "Dr. Wadhwa has worked in various cancer centers like Oswal Cancer Hospital, Ludhiana, Tata Memorial Hospital, Mumbai and Institute of Pathology (Now National Institute of Pathology), ICMR, New Delhi. He has advanced training on leukemia diagnosis using immuno-phenotyping by flow cytometry, hemoglobinopathies using high performance liquid chromatography (HPLC) and hemoglobin electrophoresis, coagulation studies like factor assays, mixing studies, platelet function tests, platelet aggregation studies, natural anticoagulant assay. He has also established cell block preparation from malignant effusions and positive fine needle aspirates to help the oncologist reach a definitive diagnosis in a shorter possible time. Dr Sanjay Wadhwa is a certified NABL Internal Auditor by National Institute of Training In Standards (NITS), Noida. Patel Hospital Laboratory will be the only laboratory in the whole region to be accredited by National accreditation board for testing and calibration laboratories (NABL).",
+    "image": {
+      "src": "/doctor-01.webp",
+      "alt": "Dr. Sanjay Wadhwa",
+      "title": "Dr. Sanjay Wadhwa",
+      "width": "250",
+      "height": "250"
+    },
+    "qualifications": [
+      "M.B.B.S From Sri Siddhartha Medical College, Bangalore",
+      "Post Graduation in Pathology from Pravara Institute of Medical Sciences (PIMS), Pune University.",
+      "DNB from Pravara Institute of Medical Sciences (PIMS), Pune University."
+    ],
+    "experience": {
+      "title": "After completing his DNB, he worked as Consultant Pathologist at:",
+      "details": [
+        "Oswal Cancer Hospital, Ludhiana, Punjab",
+        "Tata Memorial Hospital, Mumbai",
+        "Institute of Pathology (Now National Institute of Pathology), ICMR, New Delhi.",
+        "Patel Cancer and Superspeciality Hospital, Jalandhar, Punjab",
+        "Assure Pathlabs, Jalandhar",
+        "Shrimann Superspeciality Hospital"
+      ]
+    },
+    "clinical_expertise": {
+      "title": "After completing his DNB, he worked as Consultant Pathologist in various fields:",
+      "details": [
+        "Hematology - Oswal Cancer Hospital, Ludhiana, Punjab",
+        "Clinical Chemistry including hormones",
+        "Cancer markers",
+        "Clinical Pathology",
+        "Cytology including fine needle aspiration cytology",
+        "Liquid Cytology",
+        "Intra-operative imprint cytology consultation",
+        "Bone marrow aspiration cytology and biopsy",
+        "Histopathology including routine diagnostic biopsies and major oncology resection specimens..."
+      ]
+    },
+    "advanced_training": [
+      "Leukemia diagnosis using immuno-phenotyping by flow cytometry",
+      "Hemoglobinopathies using high performance liquid chromatography (HPLC) and hemoglobin electrophoresis",
+      "Institute of Pathology (Now National Institute of Pathology), ICMR, New Delhi.",
+      "Coagulation studies like factor assays, mixing studies, platelet function tests, platelet aggregation studies, natural anticoagulant assay."
+    ],
+    "professional_associations": [
+      "Member of Indian musculoskeletal Orthopedics society (IMSOS)"
+    ],
+    "academic_participations": [
+      "Dr Sanjay Wadhwa has attended many state, national and international conferences and presented papers in them."
+    ],
+    "affiliations": [
+      "Over the past four years, he is associated with NABL and helped Patel Cancer and Superspeciality hospital laboratory in being the first NABL accredited laboratory of the region.",
+      "Dr Sanjay Wadhwa has recently been certified NABL internal auditor by National institute of training in standards (NITS), Noida."
+    ]
+  },
+  {
+    "doctor_name": "Dr.Lovely Razdan",
+    "slug": "dr-lovely-razdan",
+    "doctor_education": "MD Medical Microbiology Medical Microbiologist",
+    "doctor_details": "Dr. Lovely Razdan has extensive experience in internal medicine and cardiology ,Certified Internal Auditor NABL Jalandhar",
+    "image": {
+      "src": "/dp-03.webp",
+      "alt": "Dr. Another Doctor",
+      "title": "Dr. Another Doctor",
+      "width": "250",
+      "height": "250"
+    },
+    "qualifications": [
+      "St. Petersburg State Medical University, St. Petersburg, Russia",
+      "Masters in Medical Microbiology (MD) from Pravara Institute of Medical Sciences, Pune University."
+    ],
+    "experience": {
+      "title": "After completing his DNB, he worked as Consultant Pathologist at:",
+      "details": [
+        "After completing her MD, she worked as:",
+        "Assistant Professor, Pravara institute of Medical Sciences, Loni, Maharashtra.",
+        "Consultant Medical microbiologist at Babtain Cardica centre, Dammam, Saudi Arabia",
+        "Patel Cancer and Superspeciality Hospital, Jalandhar, Punjab",
+        "Currently consultant Medical Microbiologist at Assure Pathlabs, Jalandhar."
+      ]
+    },
+    "clinical_expertise": {
+      "title": "After completing his DNB, he worked as Consultant Pathologist in various fields:",
+      "details": [
+        "After completing her MD Medical Microbiology, she worked in various fields:",
+        "Microbiology",
+        "Bacteriology",
+        "Mycology",
+        "Mycobacteriology"
+      ]
+    },
+    "advanced_training": [
+      "Instrumental in the implementation of various hospital infection control policies and procedures.",
+      "Has formulated an antibiotic protocol for hospital-acquired infections based on the antibiogram of the organisms isolated from the samples received in many hospitals for cultures.",
+      "An infection control and Safe I Assessor, certified by BD and NABH, New Delhi."
+    ],
+    "professional_associations": [
+      "Life time member of Indian medical association (IMA), New Delhi.",
+      "Dr Razdan is NABH – Safe-I certified hospital infection control assessor.",
+      "Dr Razdan is US government certified Bio-risk manager in hospitals and healthcare laboratories."
+    ],
+    "academic_participations": [
+      "Dr. Lovely Razdan has attended many states, national and international conferences and presented papers in them."
+    ],
+    "affiliations": [
+      "Over the past ten years, she has been authorized signatory in NABH & NABL accredited laboratory."
+    ]
+  },
+  {
+    "doctor_name": "Dr. Gurpal Kaur",
+    "slug": "dr-gurpal-kaur",
+    "doctor_education": "MD Medical Microbiology Medical Microbiologist",
+    "doctor_details": "MD Pathology from Government Medical College and Hospital, Amritsar",
+    "image": {
+      "src": "/dp-02.webp",
+      "alt": "Dr. Another Doctor",
+      "title": "Dr. Another Doctor",
+      "width": "250",
+      "height": "250"
+    },
+    "qualifications": [
+      "M.B.B.S from Adesh Institute of Medical Sciences and Research",
+      "Masters in Medical Microbiology (MD) from Pravara Institute of Medical Sciences, Pune University."
+    ],
+    "experience": {
+      "title": "After completing his DNB, he worked as Consultant Pathologist at:",
+      "details": [
+        "During her post graduation period, she got training in Immunopathology, Flow Cytometry and IHC",
+        "She has published one paper in a prominent national journal and has presented various posters and papers at prominent institutes.",
+        "She has been trained in Quality Management System and Internal Audit as per NABL ISO15189 : 2012."
+      ]
+    }
+  }
+]

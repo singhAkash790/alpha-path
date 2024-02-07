@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+<<<<<<< HEAD
+assure[[:space:]]website.zip filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> e89337843e08b75d6eec2c2c6dd2ef8bdf3c8848

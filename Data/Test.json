@@ -1,0 +1,1238 @@
+{
+  "Blood test": {
+    "popularPackages": {
+      "label": "Popular Packages",
+      "subCategories": [
+        {
+          "label": "Healthians Full Body Checkup With Thyroid And CBC"
+        },
+        {
+          "label": "Healthians Sickle Cell Anemia Detection Package"
+        },
+        {
+          "label": "Early Pregnancy Checkup"
+        },
+        {
+          "label": "Swasth Bharat Non Fasting Package"
+        },
+        {
+          "label": "Ayushman Package"
+        },
+        {
+          "label": "Advance Screening Package 3.0"
+        },
+        {
+          "label": "Advance Screening Package 3.0 With Allergy By Elisa Method"
+        },
+        {
+          "label": "Advance Screening Package 4.0"
+        },
+        {
+          "label": "Advance Screening Package 4.0 With Allergy By Elisa Method"
+        },
+        {
+          "label": "Healthians 100% Good Health Package"
+        },
+        {
+          "label": "Healthians Diabetic Checkup"
+        },
+        {
+          "label": "Healthy India 2023 Full Body Checkup With Vitamin Screening"
+        },
+        {
+          "label": "Healthy India 2023 Full Body Checkup With Vitamin Screening And Allergy Screening By ImmunoCAP"
+        },
+        {
+          "label": "Healthy India 2023 Full Body Checkup - ADVANCE With Allergy Screening By ImmunoCAP"
+        },
+        {
+          "label": "CRP (C Reactive Protein) Quantitative, Serum"
+        },
+        {
+          "label": "D-Dimer Quantitative"
+        },
+        {
+          "label": "Healthians First Health Check Up Package 1.0"
+        },
+        {
+          "label": "Healthians First Health Check Up Package 2.0"
+        },
+        {
+          "label": "Advance Screening Package 5.0"
+        },
+        {
+          "label": "Healthians Comprehensive Health Check Up Package - Male"
+        },
+        {
+          "label": "Healthians Comprehensive Health Check Up Package - Female"
+        }
+      ]
+    },
+    "Popular Tests": [
+      {
+        "label": "CBC Test"
+      },
+      {
+        "label": "HbA1c Test"
+      },
+      {
+        "label": "Lipid Profile Test"
+      },
+      {
+        "label": "KFT (Kidney Function Test)"
+      },
+      {
+        "label": "LFT (Liver Function Test)"
+      },
+      {
+        "label": "Cholesterol Test"
+      },
+      {
+        "label": "Diabetes Test"
+      },
+      {
+        "label": "Blood Sugar Test"
+      },
+      {
+        "label": "Blood Glucose Fasting"
+      },
+      {
+        "label": "Thyroid Test"
+      },
+      {
+        "label": "Vitamin D Test"
+      },
+      {
+        "label": "Vitamin B12 Test"
+      },
+      {
+        "label": "Complete Hemogram Test"
+      },
+      {
+        "label": "Allergy Testing"
+      },
+      {
+        "label": "Anemia Test"
+      },
+      {
+        "label": "Iron Studies Test"
+      },
+      {
+        "label": "Urine Test"
+      },
+      {
+        "label": "Uric Acid Test"
+      },
+      {
+        "label": "Ca125 Test"
+      },
+      {
+        "label": "HBsAg Test"
+      },
+      {
+        "label": "HIV Test"
+      },
+      {
+        "label": "PSA Test"
+      },
+      {
+        "label": "Stool Test"
+      },
+      {
+        "label": "Amylase Test"
+      },
+      {
+        "label": "Anti HCV Test"
+      },
+      {
+        "label": "Hepatitis B Test"
+      },
+      {
+        "label": "Hormone Test"
+      },
+      {
+        "label": "Pancreatitis Test"
+      },
+      {
+        "label": "PCOD Test"
+      },
+      {
+        "label": "STD Test"
+      },
+      {
+        "label": "Urine Routine & Microscopy"
+      },
+      {
+        "label": "Vitamin Test"
+      },
+      {
+        "label": "Fever Test"
+      },
+      {
+        "label": "Viral Marker Test"
+      },
+      {
+        "label": "Dengue Test"
+      },
+      {
+        "label": "Malaria Test"
+      },
+      {
+        "label": "Chikungunya Test"
+      },
+      {
+        "label": "Typhoid Test"
+      },
+      {
+        "label": "Immunity Test"
+      },
+      {
+        "label": "Arthritis Test"
+      }
+    ],
+    "unhealthyHabits": [
+      {
+        "label": "Alcoholism"
+      },
+      {
+        "label": "Anger"
+      },
+      {
+        "label": "Eating Poorly"
+      },
+      {
+        "label": "Heartburn"
+      },
+      {
+        "label": "Junk Food"
+      },
+      {
+        "label": "Low Iron Diet"
+      },
+      {
+        "label": "Medicine Overuse"
+      },
+      {
+        "label": "Poor Nutrition"
+      },
+      {
+        "label": "Sleeplessness"
+      },
+      {
+        "label": "Smoking"
+      },
+      {
+        "label": "Stress"
+      },
+      {
+        "label": "Zero Exercise"
+      }
+    ],
+    "healthRisks": [
+      {
+        "label": "Acidity"
+      },
+      {
+        "label": "Allergy"
+      },
+      {
+        "label": "Anaemia"
+      },
+      {
+        "label": "Arthritis"
+      },
+      {
+        "label": "Bone"
+      },
+      {
+        "label": "Cancer"
+      },
+      {
+        "label": "Diabetes"
+      },
+      {
+        "label": "Digestion"
+      },
+      {
+        "label": "Fatigue"
+      },
+      {
+        "label": "Fever"
+      },
+      {
+        "label": "Heart"
+      },
+      {
+        "label": "Hepatitis"
+      },
+      {
+        "label": "Hormones"
+      },
+      {
+        "label": "Hypertension"
+      },
+      {
+        "label": "Immunity"
+      },
+      {
+        "label": "Infections"
+      },
+      {
+        "label": "Jaundice"
+      },
+      {
+        "label": "Joints"
+      },
+      {
+        "label": "Kidney"
+      },
+      {
+        "label": "Liver"
+      },
+      {
+        "label": "Obesity"
+      },
+      {
+        "label": "Pregnancy"
+      },
+      {
+        "label": "STD"
+      },
+      {
+        "label": "Thyroid"
+      },
+      {
+        "label": "Vitamins"
+      }
+    ],
+    "govtPanelHealthTest": {
+      "label": "Govt. Panel Health Test",
+      "subCategories": [
+        {
+          "label": "CGHS"
+        },
+        {
+          "label": "ECHS"
+        },
+        {
+          "label": "DGEHS"
+        },
+        {
+          "label": "NDMC"
+        },
+        {
+          "label": "Delhi Police"
+        },
+        {
+          "label": "CRPF"
+        },
+        {
+          "label": "CISF"
+        },
+        {
+          "label": "BSF"
+        },
+        {
+          "label": "SSB"
+        },
+        {
+          "label": "NSG"
+        },
+        {
+          "label": "ITBP"
+        },
+        {
+          "label": "DTC"
+        },
+        {
+          "label": "DJB"
+        },
+        {
+          "label": "Safdarjung Hospital"
+        },
+        {
+          "label": "AIIMS Hospital"
+        },
+        {
+          "label": "RML Hospital"
+        },
+        {
+          "label": "Ministry of Finance"
+        },
+        {
+          "label": "Ministry of Home Affairs"
+        },
+        {
+          "label": "Income Tax Department"
+        },
+        {
+          "label": "GST Department"
+        },
+        {
+          "label": "Delhi Fire Service"
+        },
+        {
+          "label": "BSES-Rajdhani"
+        },
+        {
+          "label": "Ministry of Human Resource Development"
+        },
+        {
+          "label": "Ministry of Rural Development"
+        },
+        {
+          "label": "Ministry of Health and Family Welfare"
+        },
+        {
+          "label": "Delhi Home Guard and Civil"
+        },
+        {
+          "label": "Delhi Law and Judicial/Courts"
+        },
+        {
+          "label": "Delhi Education Department"
+        },
+        {
+          "label": "Delhi High Court"
+        },
+        {
+          "label": "Delhi PWD"
+        },
+        {
+          "label": "Drug Control Department"
+        },
+        {
+          "label": "Delhi Excise Department"
+        },
+        {
+          "label": "Delhi Food and Supplies"
+        },
+        {
+          "label": "Delhi DM and SDM Office"
+        },
+        {
+          "label": "Delhi Disaster Management Department"
+        },
+        {
+          "label": "Delhi Social Welfare Department"
+        },
+        {
+          "label": "Delhi Irrigation and Flood Department"
+        },
+        {
+          "label": "Delhi Tourism Department"
+        },
+        {
+          "label": "Child and Women Department"
+        },
+        {
+          "label": "Delhi Health and Hospitals"
+        },
+        {
+          "label": "Delhi Labour Department"
+        },
+        {
+          "label": "IGL"
+        },
+        {
+          "label": "RCB"
+        },
+        {
+          "label": "Other Govt. Panel"
+        }
+      ]
+    }
+  },
+  "x-ray and ct-scan": {
+    "Digital X-ray": {
+      "label": "Digital X-ray",
+      "subCategories": [
+        {
+          "label": "Abdominal X-ray"
+        },
+        {
+          "label": "Cervical X-ray"
+        },
+        {
+          "label": "Chest X-ray"
+        },
+        {
+          "label": "Knee X-ray"
+        },
+        {
+          "label": "Pelvis X-ray"
+        }
+      ]
+    },
+    "Ultrasound": {
+      "label": "Ultrasound",
+      "subCategories": [
+        {
+          "label": "Abdominal Ultrasound"
+        },
+        {
+          "label": "Breast Ultrasound"
+        },
+        {
+          "label": "Kidney Ultrasound"
+        },
+        {
+          "label": "Level 2 Ultrasound"
+        },
+        {
+          "label": "Liver Ultrasound"
+        },
+        {
+          "label": "Pelvis Ultrasound"
+        },
+        {
+          "label": "Pregnancy Ultrasound"
+        },
+        {
+          "label": "Scrotal Ultrasound"
+        },
+        {
+          "label": "Doppler Scan"
+        },
+        {
+          "label": "NT Scan"
+        },
+        {
+          "label": "TIFFA Scan"
+        },
+        {
+          "label": "TVS Ultrasound"
+        }
+      ]
+    },
+    "CT Scan": {
+      "label": "CT Scan",
+      "subCategories": [
+        {
+          "label": "Heart CT Scan"
+        },
+        {
+          "label": "Sinus CT Scan"
+        },
+        {
+          "label": "Abdominal CT Scan"
+        },
+        {
+          "label": "Brain CT Scan"
+        },
+        {
+          "label": "Chest CT Scan"
+        },
+        {
+          "label": "CT KUB Scan"
+        },
+        {
+          "label": "CT PNS Scan"
+        },
+        {
+          "label": "CBCT Scan"
+        },
+        {
+          "label": "CECT Scan"
+        },
+        {
+          "label": "CT Coronary Angiography"
+        },
+        {
+          "label": "HRCT Scan"
+        }
+      ]
+    },
+    "MRI Scan": {
+      "label": "MRI Scan",
+      "subCategories": [
+        {
+          "label": "Brain MRI Scan"
+        },
+        {
+          "label": "MRI Lumbar Spine Scan"
+        },
+        {
+          "label": "Pelvis MRI Scan"
+        },
+        {
+          "label": "MRI Knee Scan"
+        },
+        {
+          "label": "Ankle MRI Scan"
+        },
+        {
+          "label": "Shoulder MRI Scan"
+        },
+        {
+          "label": "3T MRI Scan"
+        },
+        {
+          "label": "MRCP Scan"
+        },
+        {
+          "label": "MRI Angiogram"
+        },
+        {
+          "label": "MRI Cervical Spine"
+        },
+        {
+          "label": "MRI Dorsal Spine"
+        }
+      ]
+    },
+    "ECG Test": {
+      "label": "ECG Test",
+      "subCategories": [
+        {
+          "label": "ECG Test"
+        }
+      ]
+    },
+    "Echo Test": {
+      "label": "Echo Test",
+      "subCategories": [
+        {
+          "label": "Echo Test"
+        }
+      ]
+    },
+    "TMT Test": {
+      "label": "TMT Test",
+      "subCategories": [
+        {
+          "label": "TMT Test"
+        }
+      ]
+    },
+    "PET Scan": {
+      "label": "PET Scan",
+      "subCategories": [
+        {
+          "label": "Heart PET Scan"
+        },
+        {
+          "label": "PSMA PET Scan"
+        },
+        {
+          "label": "Brain PET Scan"
+        },
+        {
+          "label": "Dotanoc PET Scan"
+        }
+      ]
+    },
+    "EEG Test": {
+      "label": "EEG Test",
+      "subCategories": [
+        {
+          "label": "EEG Test"
+        }
+      ]
+    },
+    "DEXA Scan": {
+      "label": "DEXA Scan",
+      "subCategories": [
+        {
+          "label": "DEXA Scan"
+        }
+      ]
+    },
+    "PFT Tests": {
+      "label": "PFT Tests",
+      "subCategories": [
+        {
+          "label": "Arterial Blood Gas Test"
+        },
+        {
+          "label": "Body Plethysmography"
+        },
+        {
+          "label": "Bronchial Provocation Test"
+        },
+        {
+          "label": "DLCO Test"
+        },
+        {
+          "label": "Pulse Oximetry Test"
+        },
+        {
+          "label": "Spirometry Test"
+        }
+      ]
+    },
+    "Mammography": {
+      "label": "Mammography",
+      "subCategories": [
+        {
+          "label": "Mammography"
+        }
+      ]
+    },
+    "EMG NCV Test": {
+      "label": "EMG NCV Test",
+      "subCategories": [
+        {
+          "label": "EMG NCV Test"
+        }
+      ]
+    },
+    "Scan Center": {
+      "label": "Scan Center",
+      "subCategories": [
+        {
+          "label": "Gurgaon"
+        },
+        {
+          "label": "Noida"
+        },
+        {
+          "label": "Bhopal"
+        },
+        {
+          "label": "Hyderabad"
+        },
+        {
+          "label": "Visakhapatnam"
+        },
+        {
+          "label": "Jaipur"
+        },
+        {
+          "label": "Nagpur"
+        },
+        {
+          "label": "Pune"
+        },
+        {
+          "label": "Ahmedabad"
+        },
+        {
+          "label": "Ghaziabad"
+        },
+        {
+          "label": "Lucknow"
+        },
+        {
+          "label": "Kolkata"
+        },
+        {
+          "label": "Mumbai"
+        },
+        {
+          "label": "Delhi"
+        },
+        {
+          "label": "Greater Noida"
+        },
+        {
+          "label": "Bengaluru"
+        },
+        {
+          "label": "Chennai"
+        },
+        {
+          "label": "Bhilai"
+        },
+        {
+          "label": "Moradabad"
+        },
+        {
+          "label": "Gandhinagar"
+        },
+        {
+          "label": "Nashik"
+        },
+        {
+          "label": "Udipi"
+        }
+      ]
+    }
+  },
+  "Genetic Testing": {},
+  "Doctor Consultation": {
+    "Specialities": {
+      "label": "Specialities",
+      "subCategories": [
+        { "label": "General Physician" },
+        { "label": "Gynaecology" },
+        { "label": "Dermatology" },
+        { "label": "Diabetology" },
+        { "label": "Gastroenterology" },
+        { "label": "Cardiology" },
+        { "label": "Sexology" },
+        { "label": "Psychiatry" },
+        { "label": "Ent" },
+        { "label": "Endocrinology" },
+        { "label": "Ayurveda" },
+        { "label": "Paediatrician" },
+        { "label": "Homeopathy" },
+        { "label": "Neurology" },
+        { "label": "Ophthalmology" },
+        { "label": "Orthopedy" },
+        { "label": "Rheumatology" },
+        { "label": "Physiotherapy" },
+        { "label": "Dentistry" },
+        { "label": "Pulmonology" },
+        { "label": "Infertility" }
+      ]
+    },
+    "Symptoms": {
+      "label": "Symptoms",
+      "subCategories": [
+        { "label": "Fever" },
+        { "label": "Chest Pain" },
+        { "label": "Cough & Cold" },
+        { "label": "Constipation" },
+        { "label": "Sore Throat" },
+        { "label": "Infertility" },
+        { "label": "Irregular Periods" },
+        { "label": "Headache" },
+        { "label": "Abdominal Pain" },
+        { "label": "Itching" },
+        { "label": "Abrasion" },
+        { "label": "Fainting" },
+        { "label": "Nasal Discharge" },
+        { "label": "Lightheadedness" },
+        { "label": "Fatigue" },
+        { "label": "Urticaria" },
+        { "label": "Rapid Pulse Rate" },
+        { "label": "Gas" },
+        { "label": "Shortness Of Breath" },
+        { "label": "Dizziness" },
+        { "label": "Anasarca" },
+        { "label": "Swelling" },
+        { "label": "Blister" },
+        { "label": "Edema" },
+        { "label": "Pelvic Pain" },
+        { "label": "Weight Loss" },
+        { "label": "Vaginal Bleeding" },
+        { "label": "Laceration" },
+        { "label": "Vaginal Discharge" },
+        { "label": "Purpura" },
+        { "label": "Vaginal Infections" },
+        { "label": "Diarrhea" },
+        { "label": "Vomiting" },
+        { "label": "Rash" },
+        { "label": "Painful Intercourse" },
+        { "label": "Skin Lump" },
+        { "label": "Erectile Dysfunction" },
+        { "label": "Bloating" },
+        { "label": "Lack Of Sexual Desire" },
+        { "label": "Blood In Stool" },
+        { "label": "Premature Ejaculation" },
+        { "label": "Flatulence" },
+        { "label": "Sexually Transmitted Disease" },
+        { "label": "Heartburn" },
+        { "label": "Ear Pain" },
+        { "label": "Hearing Loss" },
+        { "label": "Other Symptoms" }
+      ]
+    }
+  },
+  "surgry": {
+    "OPD with Surgeons": {
+      "label": "OPD with Surgeons",
+      "subCategories": [
+        {
+          "label": "Orthopaedics",
+          "subCategories": [
+            { "label": "Dr Surya Bhan" },
+            { "label": "Dr Deepak Thakur" },
+            { "label": "Dr Dattatreya Mohapatra" },
+            { "label": "Dr Vaibhav Jain" }
+          ]
+        },
+        {
+          "label": "Neurology",
+          "subCategories": [{ "label": "Dr Shamsher Dwivedee" }]
+        },
+        {
+          "label": "Urology",
+          "subCategories": [{ "label": "Dr Mrigank Shekhar Jha" }]
+        }
+      ]
+    },
+    "Neurosurgery": {
+      "label": "Neurosurgery",
+      "subCategories": [
+        { "label": "Skull Base Surgery" },
+        { "label": "Epilepsy Surgery" },
+        { "label": "Endoscopic Pituitary Tumour Surgery" },
+        { "label": "Disc Surgery" },
+        { "label": "Craniotomy Surgery For Brain Tumours" }
+      ]
+    },
+    "Gastroenterology": {
+      "label": "Gastroenterology",
+      "subCategories": [
+        { "label": "Gallstone Removal Surgery" },
+        { "label": "Bariatric Surgery" },
+        { "label": "Cirrhosis Of Liver Treatment" },
+        { "label": "Common Bile Duct Stones (CBD) Treatment" },
+        { "label": "Ulcerative Colitis Treatment" },
+        { "label": "Surgical Obstructive Jaundice" },
+        { "label": "Portal Hypertension Surgery" },
+        { "label": "Small Bowel Tumour" },
+        { "label": "Rectal Carcinoma Surgery" },
+        { "label": "Irritable Bowel Syndrome (IBS)Treatment" },
+        { "label": "Cystic Tumors Of Pancreas Surgery" },
+        { "label": "Colonic Polyposis Treatment" },
+        { "label": "Colonic Cancer Surgery" },
+        { "label": "Stomach Carcinoma Treatment" },
+        { "label": "Biliary Fistula Surgery" },
+        { "label": "Crohns Disease Treatment" }
+      ]
+    },
+    "Orthopaedics": {
+      "label": "Orthopaedics",
+      "subCategories": [
+        { "label": "Knee Replacement Surgery" },
+        { "label": "ACL Tear Surgery" },
+        { "label": "Carpal Tunnel Syndrome Surgery" },
+        { "label": "Shoulder Arthroscopy" },
+        { "label": "Hip Replacement Surgery" },
+        { "label": "Rotator Cuff Surgery" },
+        { "label": "Ankle Arthroscopy" },
+        { "label": "Partial Knee Replacement" },
+        { "label": "Shoulder Replacement Surgery" },
+        { "label": "Revision Total Hip Replacement" },
+        { "label": "High Tibial Osteotomy" },
+        { "label": "Hemiarthroplasty" },
+        { "label": "Arthroscopic Meniscal Repair" },
+        { "label": "Intra-articular Injection" },
+        { "label": "Fixation Of Hip Fracture" },
+        { "label": "Corrective Osteotomy Surgery" },
+        {
+          "label": "Arthroscopic Bankart Repair For Recurrent Shoulder Dislocation"
+        }
+      ]
+    },
+    "Urology": {
+      "label": "Urology",
+      "subCategories": [
+        { "label": "Hydrocele Surgery" },
+        { "label": "Kidney Stone Surgery" },
+        { "label": "Cystoscopy" },
+        { "label": "Phimosis Surgery" },
+        { "label": "Bladder Cancer Surgery" },
+        { "label": "Penis Cancer Surgery" },
+        { "label": "Laser Prostatectomy Surgery" },
+        { "label": "Kidney Cancer Surgery" },
+        { "label": "Prostate Cancer Surgery" },
+        { "label": "Kidney Autotransplant Surgery" },
+        { "label": "Laser Bladder Stone Surgery" },
+        { "label": "Laser HoLEP Prostate Surgery" },
+        { "label": "VVF Repair Surgery" },
+        { "label": "Laser Ureteric Stone Surgery" },
+        { "label": "Incontinence Surgery" },
+        { "label": "Penile Prosthesis For Erectile Dysfunction Surgery" },
+        { "label": "Pyeloplasty Surgery" },
+        { "label": "Laser Vaporisation Of Prostate" },
+        { "label": "Diode Laser Prostate Surgery" },
+        { "label": "Bladder Augmentation Surgery" },
+        { "label": "Laparoscopic Reconstructive Urological Surgery" }
+      ]
+    },
+    "Proctology": {
+      "label": "Proctology",
+      "subCategories": [
+        { "label": "Piles Surgery" },
+        { "label": "Anal Fistula Surgery" },
+        { "label": "Anal Fissure Surgery" },
+        { "label": "Pilonidal Sinus Surgery" },
+        { "label": "Rectal Prolapse Surgery" }
+      ]
+    },
+    "Laparoscopy": {
+      "label": "Laparoscopy",
+      "subCategories": [
+        { "label": "Gallstones Surgery" },
+        { "label": "Appendicitis Surgery" },
+        { "label": "Hernia Surgery" }
+      ]
+    },
+    "ENT": {
+      "label": "ENT",
+      "subCategories": [
+        { "label": "Adenoidectomy" },
+        { "label": "Sinus Surgery" },
+        { "label": "Tympanoplasty Surgery" },
+        { "label": "Mastoid Surgery" },
+        { "label": "Myringoplasty Surgery" },
+        { "label": "Tonsillectomy Surgery" },
+        { "label": "Septorhinoplasty" }
+      ]
+    },
+    "Gynaecology": {
+      "label": "Gynaecology",
+      "subCategories": [
+        { "label": "Hysterectomy Surgery" },
+        { "label": "Caesarean C-Section Surgery" },
+        { "label": "Dilation And Curettage Surgery" },
+        { "label": "Uterine Fibroids Surgery" }
+      ]
+    },
+    "Lithotripsy": {
+      "label": "Lithotripsy",
+      "subCategories": [
+        { "label": "Kidney Stones" },
+        { "label": "Ureteric Stones" },
+        { "label": "Gall Bladder Stones" },
+        { "label": "Pancreatic Stones" },
+        { "label": "Salivary Stones" }
+      ]
+    },
+    "Ophthalmology": {
+      "label": "Ophthalmology",
+      "subCategories": [
+        { "label": "Cataract Surgery" },
+        { "label": "Glaucoma Surgery" },
+        { "label": "Retina Surgery" },
+        { "label": "LASIK Surgery" },
+        { "label": "Cornea Surgery" },
+        { "label": "Oculoplasty Surgery" },
+        { "label": "Squint Surgery" },
+        { "label": "Ocular Oncology" }
+      ]
+    },
+    "Cardiology": {
+      "label": "Cardiology",
+      "subCategories": [
+        { "label": "Coronary Angioplasty And Stent Placement" },
+        { "label": "Coronary Artery Bypass Grafting (CABG)" },
+        { "label": "Valvuloplasty Surgery" },
+        { "label": "Pediatric Cardiac Surgery" },
+        { "label": "Atrial Septal Defect (ASD) Closure Surgery" },
+        { "label": "Patent Ductus Arteriosus (PDA) Closure Surgery" },
+        { "label": "Ventricular Septal Defect (VSD) Closure Surgery" },
+        { "label": "Heart Transplantation" },
+        { "label": "Angiography" }
+      ]
+    },
+    "Pediatric Surgery": {
+      "label": "Pediatric Surgery",
+      "subCategories": [
+        { "label": "Hypospadias Surgery" },
+        { "label": "Cleft Lip And Palate Surgery" },
+        { "label": "Congenital Diaphragmatic Hernia Surgery" },
+        { "label": "Vascular Anomalies Surgery" },
+        { "label": "Lung Surgery" },
+        { "label": "Pediatric Urology Surgery" },
+        { "label": "Pediatric Laparoscopic Surgery" },
+        { "label": "Neonatal Surgery" },
+        { "label": "Pediatric Gastrointestinal Surgery" },
+        { "label": "Pediatric Surgical Oncology" }
+      ]
+    },
+    "Plastic Surgery": {
+      "label": "Plastic Surgery",
+      "subCategories": [
+        { "label": "Breast Augmentation Surgery" },
+        { "label": "Breast Reduction Surgery" },
+        { "label": "Breast Lift Surgery" },
+        { "label": "Liposuction Surgery" },
+        { "label": "Tummy Tuck (Abdominoplasty) Surgery" },
+        { "label": "Facelift Surgery" },
+        { "label": "Eyelid Surgery (Blepharoplasty)" },
+        { "label": "Rhinoplasty (Nose Job) Surgery" },
+        { "label": "Hair Transplant Surgery" },
+        { "label": "Laser Hair Removal" }
+      ]
+    },
+    "Dental Surgery": {
+      "label": "Dental Surgery",
+      "subCategories": [
+        { "label": "Dental Implants" },
+        { "label": "Orthognathic Surgery" },
+        { "label": "Wisdom Tooth Removal" },
+        { "label": "Root Canal Treatment" },
+        { "label": "Tooth Extraction" },
+        { "label": "Teeth Whitening" }
+      ]
+    },
+    "Neonatology": {
+      "label": "Neonatology",
+      "subCategories": [
+        { "label": "Preterm Neonates Surgery" },
+        { "label": "Neonatal Ventilation Surgery" },
+        { "label": "Neonatal ICU Surgery" },
+        { "label": "Neonatal Surgical Emergencies" },
+        { "label": "Neonatal Anesthesia Surgery" }
+      ]
+    },
+    "Transplant Surgery ": {
+      "label": "Transplant Surgery",
+      "subCategories": [
+        { "label": "Kidney Transplant Surgery" },
+        { "label": "Liver Transplant Surgery" },
+        { "label": "Bone Marrow Transplant Surgery" },
+        { "label": "Heart Transplant Surgery" }
+      ]
+    }
+  },
+  "Supplyment": {
+    "labels": [
+      "Diabeat-Ease",
+      "Calci-Build",
+      "Brain-Power",
+      "Confi-Boost",
+      "Vari-Cosy",
+      "Apple Cider Vinegar",
+      "Digest-Plus",
+      "Hair-Power",
+      "Heart-Up",
+      "Immuno-Plus",
+      "Iron-Power",
+      "Joint-Plus",
+      "LIV-UP",
+      "Nutri-Boost",
+      "Piles-Relief",
+      "Fem-Up",
+      "Thyro-Fix",
+      "Tone-Up",
+      "Vitamin B12",
+      "Vitamin D3",
+      "Gold Year Plus"
+    ]
+  },
+  "Health Tips": {
+    "Healthians Special": {
+      "label": "Healthians Special",
+      "subsubCategories": [
+        {
+          "label": "COVID-19 Diaries"
+        },
+        {
+          "label": "FAQ Diaries"
+        },
+        {
+          "label": "Mythbusters"
+        }
+      ]
+    },
+    "Disease Management": {
+      "label": "Disease Management",
+      "subsubCategories": [
+        {
+          "label": "Allergy"
+        },
+        {
+          "label": "Autoimmune Diseases"
+        },
+        {
+          "label": "Dengue/Malaria/Chikungunya"
+        },
+        {
+          "label": "Hepatitis"
+        },
+        {
+          "label": "Kidney"
+        },
+        {
+          "label": "Stomach Ailments"
+        },
+        {
+          "label": "Anemia"
+        },
+        {
+          "label": "Blood Pressure"
+        },
+        {
+          "label": "Diabetes"
+        },
+        {
+          "label": "HIV/AIDS/STD"
+        },
+        {
+          "label": "Liver"
+        },
+        {
+          "label": "Stroke"
+        },
+        {
+          "label": "Arthritis"
+        },
+        {
+          "label": "Cancer"
+        },
+        {
+          "label": "Eye Problems"
+        },
+        {
+          "label": "Hormonal Imbalance"
+        },
+        {
+          "label": "Menstrual Problems"
+        },
+        {
+          "label": "Thyroid"
+        },
+        {
+          "label": "Asthma"
+        },
+        {
+          "label": "Deficiencies"
+        },
+        {
+          "label": "Heart Diseases"
+        },
+        {
+          "label": "Infection/Flu/Viral"
+        },
+        {
+          "label": "Skin & Hair Problems"
+        }
+      ]
+    },
+    "Lifestyle & Wellness": {
+      "label": "Lifestyle & Wellness",
+      "subsubCategories": [
+        {
+          "label": "Addiction Management"
+        },
+        {
+          "label": "Sexual Wellness"
+        },
+        {
+          "label": "Fitness"
+        },
+        {
+          "label": "Stress"
+        },
+        {
+          "label": "Nutrition/Recipes"
+        },
+        {
+          "label": "Vitamins/Supplements/Medicines"
+        },
+        {
+          "label": "Remedies"
+        },
+        {
+          "label": "Weight Management"
+        }
+      ]
+    },
+    "Men Health": {
+      "label": "Men Health",
+      "subsubCategories": [{ "label": "Men's Health" }]
+    },
+    "Woman Health": {
+      "label": "Woman Health",
+      "subsubCategories": [{ "label": "Woman's Health" }]
+    },
+    "Kids Health": {
+      "label": "Kids Health",
+      "subsubCategories": [{ "label": "Children’s Health" }]
+    },
+    "Mental Health": {
+      "label": "Mental Health",
+      "subsubCategories": [{ "label": "Mental Health" }]
+    },
+    "Doctor's Videos": {
+      "label": "Doctor's Videos",
+      "subsubCategories": [{ "label": "Doctor's Videos" }]
+    }
+  }
+}

@@ -1,0 +1,138 @@
+svg#freepik_stories-online-doctor:not(.animated) .animable {
+  opacity: 0;
+}
+svg#freepik_stories-online-doctor.animated
+  #freepik--background-simple--inject-3 {
+  animation: 0.6s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) zoomIn;
+  animation-delay: 0s;
+}
+svg#freepik_stories-online-doctor.animated #freepik--cross-icon--inject-3 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) slideUp;
+  animation-delay: 0.5s;
+  opacity: 0;
+}
+svg#freepik_stories-online-doctor.animated #freepik--pulse-icon--inject-3 {
+  animation: 1.5s Infinite linear heartbeat;
+  animation-delay: 0.5s;
+}
+svg#freepik_stories-online-doctor.animated #freepik--Character--inject-3 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) fadeIn;
+  animation-delay: 0.4s;
+  opacity: 0;
+}
+svg#freepik_stories-online-doctor.animated #freepik--Chat--inject-3 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) slideUp;
+  animation-delay: 0.5s;
+  opacity: 0;
+}
+@keyframes zoomIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+@keyframes slideUp {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: inherit;
+  }
+}
+@keyframes heartbeat {
+  0% {
+    transform: scale(1);
+  }
+  10% {
+    transform: scale(1.1);
+  }
+  30% {
+    transform: scale(1);
+  }
+  40% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  60% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+svg#freepik_stories-no-data:not(.animated) .animable {
+  opacity: 0;
+}
+svg#freepik_stories-no-data.animated #freepik--Floor--inject-5 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) fadeIn;
+  animation-delay: 0s;
+}
+svg#freepik_stories-no-data.animated #freepik--magnifying-glass--inject-5 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) fadeIn;
+  animation-delay: 0.3s;
+  opacity: 0;
+}
+svg#freepik_stories-no-data.animated #freepik--Server--inject-5 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) fadeIn;
+  animation-delay: 0.5s;
+  opacity: 0;
+}
+svg#freepik_stories-no-data.animated #freepik--Device--inject-5 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) fadeIn;
+  animation-delay: 0.4s;
+  opacity: 0;
+}
+svg#freepik_stories-no-data.animated #freepik--Character--inject-5 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) fadeIn,
+    6s Infinite linear heartbeat;
+  animation-delay: 0.9s, 3.4s;
+  opacity: 0;
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes heartbeat {
+  0% {
+    transform: scale(1);
+  }
+  10% {
+    transform: scale(1.1);
+  }
+  30% {
+    transform: scale(1);
+  }
+  40% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  60% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

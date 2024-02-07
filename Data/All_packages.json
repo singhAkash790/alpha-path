@@ -1,0 +1,1095 @@
+[
+  {
+    "Slug": "assure-complete-wellness-package-for-man",
+    "title": "Complete Wellness Package",
+    "PackageName": "Assure Complete Wellness Package for Man",
+    "ActualPrice": "7410",
+    "DiscountPrice": "2500",
+    "id": 1245,
+    "TestInfo": [
+      { "testName": "URIC ACID", "slug": "uric-acid", "count": 1 },
+      { "testName": "BLOOD UREA", "slug": "blood-urea", "count": 1 },
+      { "testName": "CREATININE", "slug": "creatinine", "count": 1 },
+      {
+        "testName": "ELECTROLYTES (Na, K, Ca)",
+        "slug": "electrolytes",
+        "count": 1
+      },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 4,
+        "items": [
+          "pH Urine",
+          "Specific gravity",
+          "Alkaline Phosphatase, Serum",
+          "GGTP (Gamma GT)",
+          "Proteins, Serum"
+        ]
+      },
+      {
+        "testName": "GLYCOSYLATED HEMOGLOBIN (HBA 1C)",
+        "slug": "hba1c",
+        "count": 1
+      },
+      { "testName": "IRON PROFILE SERUM", "slug": "iron-profile", "count": 1 },
+      { "testName": "PSA TOTAL", "slug": "psa-total", "count": 1 },
+      { "testName": "THYROID PROFILE", "slug": "thyroid-profile", "count": 3 },
+      { "testName": "VITAMIN B12", "slug": "vitamin-b12", "count": 1 },
+      { "testName": "VITAMIN D, 25 HYDROXY", "slug": "vitamin-d", "count": 1 },
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 },
+      {
+        "testName": "LIVER FUNCTION TEST BASIC",
+        "slug": "liver-function",
+        "count": 1
+      }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Assure Complete Wellness Package for Man is a comprehensive health checkup for men. It includes tests for various parameters, including blood sugar, cholesterol, prostate-specific antigen (PSA), and more.",
+    "WhoIsItFor": "Ideal for men of all ages who want to monitor their overall health and well-being."
+  },
+  {
+    "Slug": "assure-complete-wellness-package-for-woman",
+    "id": 1246,
+    "title": "Complete Wellness Package",
+    "PackageName": "Assure Complete Wellness Package for Woman",
+    "ActualPrice": "6670",
+    "DiscountPrice": "2500",
+    "TestInfo": [
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc-cbc",
+        "count": 1
+      },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 },
+      {
+        "testName": "LIVER FUNCTION TEST EXTENDED",
+        "slug": "liver-function-extended",
+        "count": 1
+      },
+      { "testName": "CREATININE", "slug": "creatinine", "count": 1 },
+      { "testName": "BLOOD UREA", "slug": "blood-urea", "count": 1 },
+      {
+        "testName": "ELECTROLYTES (Na, K, Ca)",
+        "slug": "electrolytes",
+        "count": 1
+      },
+      {
+        "testName": "GLYCOSYLATED HEMOGLOBIN (HBA 1C)",
+        "slug": "hba1c",
+        "count": 1
+      },
+      { "testName": "IRON PROFILE SERUM", "slug": "iron-profile", "count": 1 },
+      { "testName": "THYROID PROFILE", "slug": "thyroid-profile", "count": 1 },
+      { "testName": "VITAMIN D, 25 HYDROXY", "slug": "vitamin-d", "count": 1 },
+      { "testName": "VITAMIN B12", "slug": "vitamin-b12", "count": 1 },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Assure Complete Wellness Package for Woman is a comprehensive health checkup for women. It includes tests for various parameters, including blood sugar, cholesterol, liver function, and more.",
+    "WhoIsItFor": "Ideal for women of all ages who want to monitor their overall health and well-being."
+  },
+  {
+    "Slug": "assure-fit-couple-essential-man",
+    "title": "Fit Couple Essential",
+    "PackageName": "Assure Fit Couple Essential - Man",
+    "ActualPrice": "2125",
+    "DiscountPrice": "750",
+    "TestInfo": [
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      {
+        "testName": "ERYTHROCYTE SEDIMENTATION RATE (ESR)",
+        "slug": "esr",
+        "count": 1
+      },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 },
+      { "testName": "CREATININE", "slug": "creatinine", "count": 1 },
+      { "testName": "BLOOD UREA", "slug": "blood-urea", "count": 1 },
+      { "testName": "CALCIUM", "slug": "calcium", "count": 1 },
+      {
+        "testName": "ASPARTATE AMINOTRANSFERASE (AST)",
+        "slug": "ast",
+        "count": 1
+      },
+      { "testName": "SGOT", "slug": "sgot", "count": 1 },
+      {
+        "testName": "ALANINE AMINOTRANSFERASE (ALT)",
+        "slug": "alt",
+        "count": 1
+      },
+      { "testName": "SGPT", "slug": "sgpt", "count": 1 },
+      { "testName": "THYROID PROFILE", "slug": "thyroid-profile", "count": 1 },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Assure Fit Couple Essential - Man package is designed for couples. It includes tests for various parameters, including blood sugar, cholesterol, liver function, and more.",
+    "WhoIsItFor": "Recommended for couples who want to assess their overall health and well-being together."
+  },
+  {
+    "Slug": "assure-fit-couple-essential-woman",
+    "title": "Fit Couple Essential",
+    "PackageName": "Assure Fit Couple Essential - Woman",
+    "ActualPrice": "2125",
+    "DiscountPrice": "750",
+    "TestInfo": [
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      {
+        "testName": "ERYTHROCYTE SEDIMENTATION RATE (ESR)",
+        "slug": "esr",
+        "count": 1
+      },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 },
+      { "testName": "BLOOD UREA", "slug": "blood-urea", "count": 1 },
+      { "testName": "CREATININE", "slug": "creatinine", "count": 1 },
+      { "testName": "CALCIUM", "slug": "calcium", "count": 1 },
+      {
+        "testName": "ASPARTATE AMINOTRANSFERASE (AST)",
+        "slug": "ast",
+        "count": 1
+      },
+      { "testName": "SGOT", "slug": "sgot", "count": 1 },
+      {
+        "testName": "ALANINE AMINOTRANSFERASE (ALT)",
+        "slug": "alt",
+        "count": 1
+      },
+      { "testName": "SGPT", "slug": "sgpt", "count": 1 },
+      { "testName": "THYROID PROFILE", "slug": "thyroid-profile", "count": 1 },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Assure Fit Couple Essential - Woman package is designed for couples. It includes tests for various parameters, including blood sugar, cholesterol, liver function, and more.",
+    "WhoIsItFor": "Recommended for couples who want to assess their overall health and well-being together."
+  },
+  {
+    "Slug": "assure-fit-couple-premium-female",
+    "title": "Fit Couple Premium",
+    "PackageName": "Assure Fit Couple Premium - Female",
+    "ActualPrice": "5080",
+    "DiscountPrice": "1950",
+    "TestInfo": [
+      {
+        "testName": "LIVER FUNCTION TEST BASIC",
+        "slug": "liver-function",
+        "count": 1
+      },
+      { "testName": "CREATININE", "slug": "creatinine", "count": 1 },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      { "testName": "IRON PROFILE SERUM", "slug": "iron-profile", "count": 1 },
+      { "testName": "THYROID PROFILE", "slug": "thyroid-profile", "count": 1 },
+      { "testName": "URIC ACID", "slug": "uric-acid", "count": 1 },
+      { "testName": "VITAMIN B12", "slug": "vitamin-b12", "count": 1 },
+      { "testName": "VITAMIN D, 25 HYDROXY", "slug": "vitamin-d", "count": 1 },
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Assure Fit Couple Premium - Female package is designed for couples. It includes tests for various parameters, including liver function",
+    "WhoIsItFor": "Recommended for couples who want a comprehensive health assessment together."
+  },
+  {
+    "Slug": "assure-fit-couple-premium-male",
+    "title": "Fit Couple Premium",
+    "PackageName": "Assure Fit Couple Premium - Male",
+    "ActualPrice": "5530",
+    "DiscountPrice": "1950",
+    "TestInfo": [
+      {
+        "testName": "ELECTROLYTES (Na, K, Ca)",
+        "slug": "electrolytes",
+        "count": 1
+      },
+      { "testName": "CREATININE", "slug": "creatinine", "count": 1 },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      { "testName": "IRON PROFILE SERUM", "slug": "iron-profile", "count": 1 },
+      { "testName": "THYROID PROFILE", "slug": "thyroid-profile", "count": 1 },
+      { "testName": "URIC ACID", "slug": "uric-acid", "count": 1 },
+      { "testName": "VITAMIN B12", "slug": "vitamin-b12", "count": 1 },
+      { "testName": "VITAMIN D, 25 HYDROXY", "slug": "vitamin-d", "count": 1 },
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 },
+      {
+        "testName": "LIVER FUNCTION TEST BASIC",
+        "slug": "liver-function",
+        "count": 1
+      }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Assure Fit Couple Premium - Male package is designed for couples. It includes tests for various parameters, including electrolytes, blood sugar, vitamins, and more.",
+    "WhoIsItFor": "Recommended for couples who want a comprehensive health assessment together."
+  },
+  {
+    "Slug": "assure-fitman-essential",
+    "title": "Fitman Essential",
+    "PackageName": "Assure Fitman Essential",
+    "ActualPrice": "2125",
+    "DiscountPrice": "750",
+    "TestInfo": [
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      {
+        "testName": "ERYTHROCYTE SEDIMENTATION RATE (ESR)",
+        "slug": "esr",
+        "count": 1
+      },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 },
+      { "testName": "CREATININE", "slug": "creatinine", "count": 1 },
+      { "testName": "BLOOD UREA", "slug": "blood-urea", "count": 1 },
+      { "testName": "CALCIUM", "slug": "calcium", "count": 1 },
+      {
+        "testName": "ASPARTATE AMINOTRANSFERASE (AST)",
+        "slug": "ast",
+        "count": 1
+      },
+      { "testName": "SGOT", "slug": "sgot", "count": 1 },
+      {
+        "testName": "ALANINE AMINOTRANSFERASE (ALT)",
+        "slug": "alt",
+        "count": 1
+      },
+      { "testName": "SGPT", "slug": "sgpt", "count": 1 },
+      { "testName": "THYROID PROFILE", "slug": "thyroid-profile", "count": 1 }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Assure Fitman Essential package is designed for men. It includes tests for various parameters, including blood sugar, cholesterol, liver function, and more.",
+    "WhoIsItFor": "Ideal for men of all ages who want to monitor their overall health and well-being."
+  },
+  {
+    "Slug": "assure-fitman-premium",
+    "title": "Fitman Premium",
+    "PackageName": "Assure Fitman Premium",
+    "ActualPrice": "5530",
+    "DiscountPrice": "1950",
+    "TestInfo": [
+      {
+        "testName": "ELECTROLYTES (Na, K, Ca)",
+        "slug": "electrolytes",
+        "count": 1
+      },
+      { "testName": "CREATININE", "slug": "creatinine", "count": 1 },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      { "testName": "IRON PROFILE SERUM", "slug": "iron-profile", "count": 1 },
+      { "testName": "THYROID PROFILE", "slug": "thyroid-profile", "count": 1 },
+      { "testName": "URIC ACID", "slug": "uric-acid", "count": 1 },
+      { "testName": "VITAMIN B12", "slug": "vitamin-b12", "count": 1 },
+      { "testName": "VITAMIN D, 25 HYDROXY", "slug": "vitamin-d", "count": 1 },
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 },
+      {
+        "testName": "LIVER FUNCTION TEST BASIC",
+        "slug": "liver-function",
+        "count": 1
+      }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Assure Fitman Premium package is designed for men. It includes tests for various parameters, including electrolytes, blood sugar, vitamins, and more.",
+    "WhoIsItFor": "Ideal for men of all ages who want a comprehensive health assessment."
+  },
+  {
+    "Slug": "assure-essential-checkup",
+    "title": "Essential Checkup",
+    "PackageName": "Assure Essential Checkup",
+    "ActualPrice": "2400",
+    "DiscountPrice": "950",
+    "TestInfo": [
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc-cbc",
+        "count": 1
+      },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 },
+      {
+        "testName": "LIVER FUNCTION TEST BASIC",
+        "slug": "liver-function-test-basic",
+        "count": 1
+      },
+      { "testName": "CREATININE", "slug": "creatinine", "count": 1 },
+      { "testName": "BLOOD UREA", "slug": "blood-urea", "count": 1 },
+      { "testName": "URIC ACID", "slug": "uric-acid", "count": 1 },
+      {
+        "testName": "ELECTROLYTES (Na, K, Ca)",
+        "slug": "electrolytes",
+        "count": 1
+      },
+      { "testName": "THYROID PROFILE", "slug": "thyroid-profile", "count": 1 },
+      { "testName": "VITAMIN B12", "slug": "vitamin-b12", "count": 1 },
+      {
+        "testName": "VITAMIN D, 25 HYDROXY",
+        "slug": "vitamin-d-25-hydroxy",
+        "count": 1
+      },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Assure Essential Checkup is a comprehensive health checkup that covers a range of essential parameters, including blood sugar, cholesterol, liver and kidney function, vitamins, and more.",
+    "WhoIsItFor": "Suitable for individuals who want a well-rounded assessment of their overall health."
+  },
+  {
+    "Slug": "assure-complete-body-checkup",
+    "title": "Complete Body Checkup",
+    "PackageName": "Assure Complete Body Checkup",
+    "ActualPrice": "3200",
+    "DiscountPrice": "1200",
+    "TestInfo": [
+      {
+        "testName": "COMPLETE BLOOD COUNT",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 },
+      {
+        "testName": "LIVER FUNCTION TEST BASIC",
+        "slug": "liver-function-test-basic",
+        "count": 1
+      },
+      { "testName": "CREATININE", "slug": "creatinine", "count": 1 },
+      { "testName": "BLOOD UREA", "slug": "blood-urea", "count": 1 },
+      { "testName": "URIC ACID", "slug": "uric-acid", "count": 1 },
+      {
+        "testName": "ELECTROLYTES (Na, K, Ca)",
+        "slug": "electrolytes",
+        "count": 1
+      },
+      { "testName": "THYROID PROFILE", "slug": "thyroid-profile", "count": 1 },
+      { "testName": "VITAMIN B12", "slug": "vitamin-b12", "count": 1 },
+      {
+        "testName": "VITAMIN D, 25 HYDROXY",
+        "slug": "vitamin-d-25-hydroxy",
+        "count": 1
+      },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 },
+      {
+        "testName": "IRON PROFILE SERUM",
+        "slug": "iron-profile-serum",
+        "count": 1
+      },
+      { "testName": "PSA TOTAL", "slug": "psa-total", "count": 1 },
+      {
+        "testName": "GLYCOSYLATED HEMOGLOBIN (HBA1C)",
+        "slug": "glycosylated-hemoglobin",
+        "count": 1
+      }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Assure Complete Body Checkup provides a comprehensive evaluation of key health parameters, including blood sugar, cholesterol, kidney function, vitamins, thyroid, and additional tests for men's health.",
+    "WhoIsItFor": "Ideal for individuals who want a thorough assessment of their overall health, including men's health parameters."
+  },
+  {
+    "Slug": "assure-fitwoman-premium",
+    "title": "Fitwoman Premium",
+    "PackageName": "Assure Fitwoman Premium",
+    "ActualPrice": "5530",
+    "DiscountPrice": "1950",
+    "TestInfo": [
+      {
+        "testName": "ELECTROLYTES (Na, K, Ca)",
+        "slug": "electrolytes",
+        "count": 1
+      },
+      { "testName": "CREATININE", "slug": "creatinine", "count": 1 },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      { "testName": "IRON PROFILE SERUM", "slug": "iron-profile", "count": 1 },
+      { "testName": "THYROID PROFILE", "slug": "thyroid-profile", "count": 1 },
+      { "testName": "URIC ACID", "slug": "uric-acid", "count": 1 },
+      { "testName": "VITAMIN B12", "slug": "vitamin-b12", "count": 1 },
+      { "testName": "VITAMIN D, 25 HYDROXY", "slug": "vitamin-d", "count": 1 },
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 },
+      {
+        "testName": "LIVER FUNCTION TEST BASIC",
+        "slug": "liver-function",
+        "count": 1
+      }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Assure Fitwoman Premium package is designed for women. It includes tests for various parameters, including electrolytes, blood sugar, vitamins, and more.",
+    "WhoIsItFor": "Ideal for women of all ages who want a comprehensive health assessment."
+  },
+  {
+    "Slug": "assure-livlong-premium-man",
+    "title": "Livlong Premium",
+    "PackageName": "Assure Livlong Premium - Man",
+    "ActualPrice": "4100",
+    "DiscountPrice": "1950",
+    "TestInfo": [
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 },
+      {
+        "testName": "LIVER FUNCTION TEST BASIC",
+        "slug": "liver-function",
+        "count": 1
+      },
+      { "testName": "THYROID PROFILE", "slug": "thyroid-profile", "count": 1 },
+      { "testName": "VITAMIN D, 25 HYDROXY", "slug": "vitamin-d", "count": 1 },
+      { "testName": "VITAMIN B12", "slug": "vitamin-b12", "count": 1 },
+      { "testName": "IRON PROFILE SERUM", "slug": "iron-profile", "count": 1 },
+      { "testName": "URIC ACID", "slug": "uric-acid", "count": 1 },
+      { "testName": "CREATININE", "slug": "creatinine", "count": 1 },
+      {
+        "testName": "ELECTROLYTES (Na, K, Ca)",
+        "slug": "electrolytes",
+        "count": 1
+      },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      {
+        "testName": "GLYCOSYLATED HEMOGLOBIN (HBA 1C)",
+        "slug": "glycosylated-hemoglobin",
+        "count": 1
+      },
+      { "testName": "BLOOD UREA", "slug": "blood-urea", "count": 1 },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Assure Livlong Premium - Man package is tailored for men. It includes tests for various parameters, such as cholesterol, liver function, vitamins, and more.",
+    "WhoIsItFor": "Ideal for men of all ages who want a comprehensive health assessment."
+  },
+  {
+    "Slug": "assure-livlong-premium-woman",
+    "title": "Livlong Premium",
+    "PackageName": "Assure Livlong Premium - Woman",
+    "ActualPrice": "4100",
+    "DiscountPrice": "1950",
+    "TestInfo": [
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 },
+      {
+        "testName": "LIVER FUNCTION TEST BASIC",
+        "slug": "liver-function",
+        "count": 1
+      },
+      { "testName": "THYROID PROFILE", "slug": "thyroid-profile", "count": 1 },
+      { "testName": "VITAMIN D, 25 HYDROXY", "slug": "vitamin-d", "count": 1 },
+      { "testName": "VITAMIN B12", "slug": "vitamin-b12", "count": 1 },
+      { "testName": "IRON PROFILE SERUM", "slug": "iron-profile", "count": 1 },
+      { "testName": "URIC ACID", "slug": "uric-acid", "count": 1 },
+      { "testName": "CREATININE", "slug": "creatinine", "count": 1 },
+      {
+        "testName": "ELECTROLYTES (Na, K, Ca)",
+        "slug": "electrolytes",
+        "count": 1
+      },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      {
+        "testName": "GLYCOSYLATED HEMOGLOBIN (HBA 1C)",
+        "slug": "glycosylated-hemoglobin",
+        "count": 1
+      },
+      { "testName": "BLOOD UREA", "slug": "blood-urea", "count": 1 },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Assure Livlong Premium - Woman package is tailored for women. It includes tests for various parameters, such as cholesterol, liver function, vitamins, and more.",
+    "WhoIsItFor": "Ideal for women of all ages who want a comprehensive health assessment."
+  },
+
+  {
+    "Slug": "assure-fit-couple-essential-woman",
+    "title": "Fit Couple Essential",
+    "PackageName": "Assure Fit Couple Essential - Woman",
+    "ActualPrice": "2125",
+    "DiscountPrice": "750",
+    "TestInfo": [
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      {
+        "testName": "ERYTHROCYTE SEDIMENTATION RATE (ESR)",
+        "slug": "esr",
+        "count": 1
+      },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 },
+      { "testName": "BLOOD UREA", "slug": "blood-urea", "count": 1 },
+      { "testName": "CREATININE", "slug": "creatinine", "count": 1 },
+      { "testName": "CALCIUM", "slug": "calcium", "count": 1 },
+      {
+        "testName": "ASPARTATE AMINOTRANSFERASE (AST)",
+        "slug": "ast",
+        "count": 1
+      },
+      { "testName": "SGOT", "slug": "sgot", "count": 1 },
+      {
+        "testName": "ALANINE AMINOTRANSFERASE (ALT)",
+        "slug": "alt",
+        "count": 1
+      },
+      { "testName": "SGPT", "slug": "sgpt", "count": 1 },
+      { "testName": "THYROID PROFILE", "slug": "thyroid-profile", "count": 1 },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Assure Fit Couple Essential - Woman package is designed for couples. It includes tests for various parameters, including blood sugar, cholesterol, liver function, and more.",
+    "WhoIsItFor": "Recommended for couples who want to assess their overall health and well-being together."
+  },
+  {
+    "Slug": "diabetes-screen",
+    "title": "Diabetes Screen",
+    "PackageName": "Diabetes Screen",
+    "ActualPrice": "710",
+    "DiscountPrice": "500",
+    "TestInfo": [
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      {
+        "testName": "GLUCOSE (POST PRANDIAL)",
+        "slug": "glucose-post-prandial",
+        "count": 1
+      },
+      {
+        "testName": "GLYCOSYLATED HEMOGLOBIN (HBA1C)",
+        "slug": "hba1c",
+        "count": 1
+      },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Diabetes Screen package is a basic assessment of diabetes-related markers to check blood sugar levels and overall health.",
+    "WhoIsItFor": "Ideal for individuals looking for a simple check of their diabetes-related markers."
+  },
+  {
+    "Slug": "fever-cure",
+    "title": "Fever",
+    "PackageName": "Fever Cure",
+    "ActualPrice": "2500",
+    "DiscountPrice": "1500",
+    "TestInfo": [
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      {
+        "testName": "ERYTHROCYTE SEDIMENTATION RATE (ESR)",
+        "slug": "esr",
+        "count": 1
+      },
+      {
+        "testName": "MALARIA ANTIGEN (P.VIVAX & P.FALCIPARUM)",
+        "slug": "malaria-antigen",
+        "count": 1
+      },
+      { "testName": "TYPHI DOT", "slug": "typhi-dot", "count": 1 },
+      {
+        "testName": "ASPARTATE AMINOTRANSFERASE (AST)",
+        "slug": "ast",
+        "count": 1
+      },
+      { "testName": "SGOT", "slug": "sgot", "count": 1 },
+      {
+        "testName": "ALANINE AMINOTRANSFERASE (ALT)",
+        "slug": "alt",
+        "count": 1
+      },
+      { "testName": "SGPT", "slug": "sgpt", "count": 1 },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 },
+      {
+        "testName": "DENGUE ANTIBODIES IgG",
+        "slug": "dengue-antibodies-igg",
+        "count": 1
+      },
+      { "testName": "IgM", "slug": "igm", "count": 1 },
+      { "testName": "NS1Ag", "slug": "ns1ag", "count": 1 }
+    ],
+    "PreTestInfo": "Fasting is not required for this test.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Fever Cure package is designed to evaluate fever-related conditions, including tests for malaria, typhoid, dengue, and more.",
+    "WhoIsItFor": "Suitable for individuals with fever-like symptoms or those traveling to areas with a higher risk of fever-related illnesses."
+  },
+  {
+    "Slug": "fever-panel",
+    "title": "Fever",
+    "PackageName": "Fever Panel",
+    "ActualPrice": "560",
+    "DiscountPrice": "450",
+    "TestInfo": [
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      {
+        "testName": "ERYTHROCYTE SEDIMENTATION RATE (ESR)",
+        "slug": "esr",
+        "count": 1
+      },
+      {
+        "testName": "MALARIAL PARASITE (MP)",
+        "slug": "malarial-parasite",
+        "count": 1
+      },
+      {
+        "testName": "SMEAR EXAMINATION",
+        "slug": "smear-examination",
+        "count": 1
+      },
+      {
+        "testName": "WIDAL SLIDE TEST",
+        "slug": "widal-slide-test",
+        "count": 1
+      },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 }
+    ],
+    "PreTestInfo": "Fasting is not required for this test.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Fever Panel package is focused on evaluating fever conditions with tests for malaria, typhoid, and other relevant markers.",
+    "WhoIsItFor": "Ideal for individuals with fever-like symptoms or suspected fever-related conditions."
+  },
+  {
+    "Slug": "free-thyroid-profile-ft3-ft4-tsh",
+    "title": "Thyroid Profile",
+    "PackageName": "Free Thyroid Profile FT3, FT4, TSH",
+    "ActualPrice": "1150",
+    "DiscountPrice": "900",
+    "TestInfo": [
+      {
+        "testName": "FREE TRI-IODOTHYRONINE (FT3)",
+        "slug": "free-tri-iodothyronine",
+        "count": 1
+      },
+      {
+        "testName": "FREE THYROXINE (FT4)",
+        "slug": "free-thyroxine",
+        "count": 1
+      },
+      {
+        "testName": "THYROID STIMULATING HORMONE (TSH)",
+        "slug": "thyroid-stimulating-hormone",
+        "count": 1
+      }
+    ],
+    "PreTestInfo": "Fasting is not required for this test.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Free Thyroid Profile FT3, FT4, TSH package is tailored for assessing thyroid function with specific tests for key thyroid hormones.",
+    "WhoIsItFor": "Recommended for individuals with known or suspected thyroid issues."
+  },
+  {
+    "id": 1242,
+    "Slug": "healthy-heart-panel",
+    "title": "Healthy Heart Panel",
+    "PackageName": "Healthy Heart Panel",
+    "ActualPrice": "1010",
+    "DiscountPrice": "650",
+    "TestInfo": [
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 },
+      { "testName": "CREATININE", "slug": "creatinine", "count": 1 },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      {
+        "testName": "ELECTROLYTES (Na, K, Ca)",
+        "slug": "electrolytes",
+        "count": 1
+      }
+    ],
+    "PreTestInfo": "Fasting for 10-12 hours is recommended.",
+    "TestInfoDate": "Test is run daily, and the report is available the same day.",
+    "TestDetails": "The Healthy Heart Panel focuses on assessing cardiovascular health with tests for cholesterol, blood sugar, and electrolytes.",
+    "WhoIsItFor": "Ideal for individuals concerned about their heart health or at risk of cardiovascular issues."
+  },
+  {
+    "Slug": "hypertension-profile",
+    "title": "Hypertension Profile",
+    "PackageName": "Hypertension Profile",
+    "ActualPrice": "1575",
+    "DiscountPrice": "950",
+    "TestInfo": [
+      {
+        "testName": "ELECTROLYTES (Na, K, Ca)",
+        "slug": "electrolytes",
+        "count": 1
+      },
+      {
+        "testName": "ALANINE AMINOTRANSFERASE (ALT)",
+        "slug": "alt",
+        "count": 1
+      },
+      { "testName": "SGPT", "slug": "sgpt", "count": 1 },
+      {
+        "testName": "GLUCOSE (FASTING)",
+        "slug": "glucose-fasting",
+        "count": 1
+      },
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      },
+      { "testName": "URINE TEST ROUTINE", "slug": "urine-test", "count": 1 },
+      { "testName": "LIPID PROFILE", "slug": "lipid-profile", "count": 1 }
+    ],
+    "PreTestInfo": "No specific fasting required",
+    "TestInfoDate": "Results available the same day.",
+    "TestDetails": "This profile is designed to evaluate key parameters related to hypertension and overall health.",
+    "WhoIsItFor": "Recommended for individuals concerned about hypertension or general health monitoring."
+  },
+  {
+    "Slug": "infertility-screening-panel-for-men",
+    "title": "Infertility Screening Panel",
+    "PackageName": "Infertility Screening Panel For Men",
+    "ActualPrice": "2010",
+    "DiscountPrice": "1250",
+    "TestInfo": [
+      {
+        "testName": "TESTOSTERONE TOTAL",
+        "slug": "testosterone-total",
+        "count": 1
+      },
+      {
+        "testName": "FOLLICLE STIMULATING HORMONE FSH",
+        "slug": "follicle-stimulating-hormone",
+        "count": 1
+      },
+      {
+        "testName": "LEUTINIZING HORMONE (LH)",
+        "slug": "leutinizing-hormone",
+        "count": 1
+      },
+      {
+        "testName": "THYROID STIMULATING HORMONE (TSH)",
+        "slug": "thyroid-stimulating-hormone",
+        "count": 1
+      }
+    ],
+    "PreTestInfo": "No specific fasting required",
+    "TestInfoDate": "Results available the same day.",
+    "TestDetails": "This panel assesses male fertility-related hormones and thyroid function.",
+    "WhoIsItFor": "Recommended for men interested in assessing their fertility status and thyroid health."
+  },
+  {
+    "Slug": "infertility-screening-panel-for-women",
+    "title": "Infertility Screening Panel",
+    "PackageName": "Infertility Screening Panel For Women",
+    "ActualPrice": "2360",
+    "DiscountPrice": "1800",
+    "TestInfo": [
+      {
+        "testName": "TESTOSTERONE TOTAL",
+        "slug": "testosterone-total",
+        "count": 1
+      },
+      {
+        "testName": "FOLLICLE STIMULATING HORMONE FSH",
+        "slug": "follicle-stimulating-hormone",
+        "count": 1
+      },
+      {
+        "testName": "LEUTINIZING HORMONE (LH)",
+        "slug": "leutinizing-hormone",
+        "count": 1
+      },
+      { "testName": "PROLACTIN", "slug": "prolactin", "count": 1 },
+      {
+        "testName": "THYROID STIMULATING HORMONE (TSH)",
+        "slug": "thyroid-stimulating-hormone",
+        "count": 1
+      }
+    ],
+    "PreTestInfo": "No specific fasting required",
+    "TestInfoDate": "Results available the same day.",
+    "TestDetails": "This panel assesses female fertility-related hormones and thyroid function.",
+    "WhoIsItFor": "Recommended for women interested in assessing their fertility status and thyroid health."
+  },
+  {
+    "Slug": "liver-function-test-basic",
+    "title": "Liver",
+    "PackageName": "Liver Function Test Basic",
+    "ActualPrice": "510",
+    "DiscountPrice": "380",
+    "TestInfo": [
+      {
+        "testName": "BILIRUBIN (TOTAL)",
+        "slug": "bilirubin-total",
+        "count": 1
+      },
+      {
+        "testName": "BILIRUBIN (DIRECT)",
+        "slug": "bilirubin-direct",
+        "count": 1
+      },
+      {
+        "testName": "BILIRUBIN (Indirect)",
+        "slug": "bilirubin-indirect",
+        "count": 1
+      },
+      {
+        "testName": "ASPARTATE AMINOTRANSFERASE (AST)",
+        "slug": "ast",
+        "count": 1
+      },
+      { "testName": "SGOT", "slug": "sgot", "count": 1 },
+      {
+        "testName": "ALANINE AMINOTRANSFERASE (ALT)",
+        "slug": "alt",
+        "count": 1
+      },
+      { "testName": "SGPT", "slug": "sgpt", "count": 1 },
+      {
+        "testName": "ALKALINE PHOSPHATASE",
+        "slug": "alkaline-phosphatase",
+        "count": 1
+      },
+      { "testName": "PROTEIN, TOTAL", "slug": "protein-total", "count": 1 },
+      { "testName": "ALBUMIN", "slug": "albumin", "count": 1 },
+      { "testName": "GLOBULIN", "slug": "globulin", "count": 1 },
+      {
+        "testName": "ALBUMIN GLOBULIN A/G RATIO",
+        "slug": "albumin-globulin-ag-ratio",
+        "count": 1
+      }
+    ],
+    "PreTestInfo": "No specific fasting required",
+    "TestInfoDate": "Results available the same day.",
+    "TestDetails": "This basic liver function test assesses key liver-related markers.",
+    "WhoIsItFor": "Recommended for individuals interested in evaluating their liver function."
+  },
+  {
+    "Slug": "liver-function-test-extended",
+    "title": "Liver",
+    "PackageName": "Liver Function Test Extended",
+    "ActualPrice": "680",
+    "DiscountPrice": "510",
+    "TestInfo": [
+      {
+        "testName": "ALANINE AMINOTRANSFERASE (ALT)",
+        "slug": "alt",
+        "count": 1
+      },
+      { "testName": "SGPT", "slug": "sgpt", "count": 1 },
+      { "testName": "ALBUMIN", "slug": "albumin", "count": 1 },
+      {
+        "testName": "ALBUMIN GLOBULIN A/G RATIO",
+        "slug": "albumin-globulin-ag-ratio",
+        "count": 1
+      },
+      {
+        "testName": "ALALKALINE PHOSPHATASE",
+        "slug": "alkaline-phosphatase",
+        "count": 1
+      },
+      {
+        "testName": "ASPARTATE AMINOTRANSFERASE (AST)",
+        "slug": "ast",
+        "count": 1
+      },
+      { "testName": "SGOT", "slug": "sgot", "count": 1 },
+      {
+        "testName": "BILIRUBIN (DIRECT)",
+        "slug": "bilirubin-direct",
+        "count": 1
+      },
+      {
+        "testName": "BILIRUBIN (Indirect)",
+        "slug": "bilirubin-indirect",
+        "count": 1
+      },
+      {
+        "testName": "BILIRUBIN (TOTAL)",
+        "slug": "bilirubin-total",
+        "count": 1
+      },
+      {
+        "testName": "GAMMA GLUTAMYL TRANSFERASE (GGT)",
+        "slug": "gamma-glutamyl-transferase",
+        "count": 1
+      },
+      { "testName": "GLOBULIN", "slug": "globulin", "count": 1 },
+      { "testName": "PROTEIN, TOTAL", "slug": "protein-total", "count": 1 }
+    ],
+    "PreTestInfo": "No specific fasting required",
+    "TestInfoDate": "Results available the same day.",
+    "TestDetails": "This extended liver function test provides a more comprehensive evaluation of liver markers.",
+    "WhoIsItFor": "Recommended for individuals requiring a detailed liver function assessment."
+  },
+  {
+    "Slug": "respiratory-panel",
+    "title": "Respiratory Panel",
+    "PackageName": "Respiratory Panel",
+    "ActualPrice": "470",
+    "DiscountPrice": "0",
+    "TestInfo": [
+      { "testName": "ZN STAIN", "slug": "zn-stain", "count": 1 },
+      {
+        "testName": "ABSOLUTE EOSINOPHIL COUNT",
+        "slug": "absolute-eosinophil-count",
+        "count": 1
+      },
+      {
+        "testName": "COMPLETE BLOOD COUNT ",
+        "slug": "complete-blood-count-cbc",
+        "count": 1
+      }
+    ],
+    "PreTestInfo": "No specific fasting required",
+    "TestInfoDate": "Results available the same day.",
+    "TestDetails": "This panel is designed for respiratory-related investigations and includes key respiratory tests.",
+    "WhoIsItFor": "Recommended for individuals with respiratory concerns or infections."
+  },
+  {
+    "Slug": "tropical-fever",
+    "title": "Fever",
+    "PackageName": "Tropical Fever",
+    "ActualPrice": "5100",
+    "DiscountPrice": "1950",
+    "TestInfo": [
+      {
+        "testName": "CHIKUNGUNYA VIRUS ANTIBODIES, IgM & IgG (ICT)",
+        "slug": "chikungunya-virus-antibodies",
+        "count": 1
+      },
+      {
+        "testName": "CHIKUNGUNYA/ D PTERYGIUM/ OTHER",
+        "slug": "chikungunya-d-pterygium",
+        "count": 1
+      },
+      {
+        "testName": "DENGUE ANTIBODIES IgG",
+        "slug": "dengue-antibodies-igg",
+        "count": 1
+      },
+      { "testName": "IgM", "slug": "igm", "count": 1 },
+      { "testName": "NS1Ag", "slug": "ns1ag", "count": 1 },
+      {
+        "testName": "MALARIA ANTIGEN (P.VIVAX & P.FALCIPARUM)",
+        "slug": "malaria-antigen",
+        "count": 1
+      },
+      { "testName": "TYPHI DOT", "slug": "typhi-dot", "count": 1 },
+      { "testName": "WIDAL SLIDE TEST", "slug": "widal-slide-test", "count": 1 }
+    ],
+    "PreTestInfo": "No specific fasting required",
+    "TestInfoDate": "Results available the same day.",
+    "TestDetails": "The Tropical Fever package is designed to evaluate fever conditions, including tests for tropical diseases like dengue, chikungunya, and malaria.",
+    "WhoIsItFor": "Suitable for individuals with fever-like symptoms or those traveling to areas with a risk of tropical fever."
+  }
+]

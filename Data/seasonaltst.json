@@ -1,0 +1,56 @@
+{
+  "test_data": [
+    {
+      "id": "443",
+      "Test_Name": "FEVER PANEL",
+      "Slug": "fever-panel",
+      "Test_ID": "",
+      "Test_Amount": "560",
+      "Discount_Amount": "450",
+      "Test_Category": "fever",
+      "Test_Description": "Overnight fasting is required",
+      "Who_is_it_for": "",
+      "Pre_test_information": "Overnight fasting is required",
+      "Turn_around_time": "Test is run daily and report is available same day."
+    },
+    {
+      "id": "444",
+      "Test_Name": "DIABETES PROFILE",
+      "Slug": "diabetes-profile",
+      "Test_ID": "1378246",
+      "Test_Amount": "2005",
+      "Discount_Amount": "1200",
+      "Test_Category": "diabetes",
+      "Test_Description": "Overnight fasting is mandatory",
+      "Who_is_it_for": "",
+      "Pre_test_information": "Overnight fasting is mandatory",
+      "Turn_around_time": "Test is run daily and report is available same day."
+    },
+    {
+      "id": "445",
+      "Test_Name": "DIABETES PROFILE EXTENDED",
+      "Slug": "diabetes-profile-extended",
+      "Test_ID": "1378247",
+      "Test_Amount": "3025",
+      "Discount_Amount": "1750",
+      "Test_Category": "diabetes",
+      "Test_Description": "Overnight fasting is mandatory",
+      "Who_is_it_for": "",
+      "Pre_test_information": "Overnight fasting is mandatory",
+      "Turn_around_time": "Test is run daily and report is available same day."
+    },
+    {
+      "id": "446",
+      "Test_Name": "DIABETES SCREEN",
+      "Slug": "diabetes-screen",
+      "Test_ID": "1378245",
+      "Test_Amount": "710",
+      "Discount_Amount": "500",
+      "Test_Category": "diabetes",
+      "Test_Description": "Overnight fasting is mandatory",
+      "Who_is_it_for": "",
+      "Pre_test_information": "Overnight fasting is mandatory",
+      "Turn_around_time": "Test is run daily and report is available same day."
+    }
+  ]
+}

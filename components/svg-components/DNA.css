@@ -1,0 +1,63 @@
+:root {
+  --rotate-time: 4s;
+  --rotate-delay: 0.15;
+  --lines-color: rgba(99, 165, 241, 1);
+  --dots-color: #575aa8;
+}
+.dna_cnt {
+  height: 35vh;
+  justify-content: center;
+  align-items: center;
+}
+
+#dna {
+  height: 240px;
+  rotate: 90deg;
+  width: auto;
+  perspective: 1000px;
+  scale: 0.3;
+}
+
+#dna div {
+  position: relative;
+  top: 50%;
+  left: 60px;
+  width: 2px;
+  height: 160px;
+  margin-top: -80px;
+  background-color: var(--lines-color);
+  float: left;
+  transform-style: preserve-3d;
+  margin-left: 20px;
+  margin-left: 20px;
+  animation: rotation 3.5s linear infinite;
+}
+
+#dna div::before,
+#dna div::after {
+  content: "";
+  position: absolute;
+  left: -4px;
+  right: -4px;
+  height: 10px;
+  background-color: var(--dots-color);
+  border-radius: 5px;
+  z-index: 1;
+}
+
+#dna div::before {
+  top: -10px;
+}
+
+#dna div::after {
+  bottom: -10px;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotateX(0deg);
+  }
+  to {
+    transform: rotateX(359deg);
+  }
+}

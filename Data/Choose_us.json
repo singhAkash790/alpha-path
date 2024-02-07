@@ -1,0 +1,40 @@
+{
+  "title": "WHY CHOOSE US?",
+  "icons": [
+    {
+      "id": 1,
+      "icon": "Nabh",
+      "text": "NABL Certified Labs"
+    },
+    {
+      "id": 2,
+      "icon": "FreeHomeCollection",
+      "text": "Free Home Sample Collection"
+    },
+    {
+      "id": 3,
+      "icon": "SameDayreport",
+      "text": "Smart Reports in 24 hours*"
+    },
+    {
+      "id": 4,
+      "icon": "AssureSafety",
+      "text": "On-time Sample Collection"
+    },
+    {
+      "id": 5,
+      "icon": "AffordablePricing",
+      "text": "Most Affordable Pricing"
+    },
+    {
+      "id": 6,
+      "icon": "Consultant",
+      "text": "Free Doctor Consultation"
+    },
+    {
+      "id": 7,
+      "icon": "PlayStore",
+      "text": "Assure Pathlabs app"
+    }
+  ]
+}

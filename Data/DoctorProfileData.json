@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Dr. Sanjay Wadhwa",
+    "slug": "dr-sanjay-wadhwa",
+    "imageSrc": "/doctor-01.webp",
+    "alt": "Dr. Sanjay Wadhwa",
+    "title": "Dr. Sanjay Wadhwa",
+    "width": "350",
+    "height": "350",
+    "position": "FOUNDER AND CHAIRMAN",
+    "organization": "ASSURE PATHLABS"
+  },
+  {
+    "name": "Dr.Lovely Razdan",
+    "slug": "dr-lovely-razdan",
+    "imageSrc": "/doctor-01.webp",
+    "alt": "Dr.Lovely Razdan",
+    "title": "Dr.Lovely Razdan",
+    "width": "350",
+    "height": "350",
+    "position": "Managing director",
+    "organization": "ASSURE PATHLABS"
+  },
+  {
+    "name": "Dr. Gurpal Kaur",
+    "slug": "dr-gurpal-kaur",
+    "imageSrc": "/doctor-01.webp",
+    "alt": "Dr. Gurpal Kaur",
+    "title": "Dr. Gurpal Kaur",
+    "width": "350",
+    "height": "350",
+    "position": "Laboratory Assistant",
+    "organization": "ASSURE PATHLABS"
+  }
+]
