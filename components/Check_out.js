@@ -85,6 +85,7 @@ const UserDataForm = ({ onPrevStep, onNextStep, onFormData }) => {
         const apiData = {
           fullName: values.name,
           age: values.age,
+          mobile: values.phoneNumber,
           gender: values.gender,
           isHomecollection:
             values.selectedPlan === "Home_collection" ? "1" : "0",
@@ -102,9 +103,40 @@ const UserDataForm = ({ onPrevStep, onNextStep, onFormData }) => {
           advance: 0,
           organizationIdLH: 324559,
           testID: 3992066,
-          testCode: 3992066,
+          testCode: "COVID ANTIGEN (POC)",
           integrationCode: "-",
           dictionaryId: "-",
+          billDetails: {
+            emergencyFlag: "0",
+            totalAmount: "0",
+            advance: "0",
+            billDate: "",
+            paymentType: "",
+            referralName: "",
+            otherReferral: "",
+            sampleId: "",
+            orderNumber: "",
+            referralIdLH: "",
+            organisationName: "",
+            additionalAmount: "",
+            organizationIdLH: "324559",
+            comments: "",
+            testList: [
+              {
+                testID: "3992066",
+                testCode: "COVID ANTIGEN (POC)",
+                integrationCode: "-",
+                dictionaryId: "-",
+              },
+            ],
+            paymentList: [
+              {
+                paymentType: "",
+                paymentAmount: "",
+                issueBank: "",
+              },
+            ],
+          },
         };
 
         console.log(apiData);
@@ -185,7 +217,7 @@ const UserDataForm = ({ onPrevStep, onNextStep, onFormData }) => {
   };
   const handleRadioChange = (event) => {
     formik.setFieldValue("selectedPlan", event.target.id);
-    // setIsHomeCollection(initialValues);    
+    // setIsHomeCollection(initialValues);
     setIsHomeCollection((prevState) => ({
       ...prevState,
       selectedPlan: event.target.id,
